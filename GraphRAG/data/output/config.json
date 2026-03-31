@@ -1,0 +1,38 @@
+{
+  "input": {
+    "type": "file",
+    "file_type": "text",
+    "base_dir": "data\\input",
+    "file_pattern": ".*\\.txt$"
+  },
+  "output": {
+    "type": "file",
+    "base_dir": "data\\output"
+  },
+  "chunks": {
+    "size": 300,
+    "overlap": 50,
+    "group_by_columns": [
+      "id"
+    ]
+  },
+  "llm": {
+    "type": "azure_openai_custom",
+    "temperature": 0.0,
+    "max_tokens": 2000
+  },
+  "embeddings": {
+    "type": "azure_openai",
+    "batch_size": 16
+  },
+  "entity_extraction": {
+    "max_gleanings": 1
+  },
+  "community_reports": {
+    "max_length": 2000,
+    "max_input_length": 8000
+  },
+  "cluster_graph": {
+    "max_cluster_size": 10
+  }
+}

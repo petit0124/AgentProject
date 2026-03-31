@@ -1,0 +1,8 @@
+Current working directory: C:\Users\petit\AgentProject\EvaluationRAG
+Attempting to reproduce RAG error...
+Imported rag module.
+Initializing RAG chain...
+RAG chain initialized.
+Invoking chain with query: 'test query'
+Chain invocation successful!
+Response: I don¡¯t know the answer based on the provided context.

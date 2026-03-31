@@ -1,0 +1,5813 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "name": "量子计算",
+      "type": "TECHNOLOGY",
+      "description": "利用量子力学原理进行信息处理的技术，被认为是21世纪最具颠覆性的技术之一。 基于量子力学的计算技术。与人工智能融合并相互促进。 利用量子力学原理进行信息处理的计算范式。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "人工智能",
+      "type": "TECHNOLOGY",
+      "description": "使机器具备智能行为的技术体系，近年来在多个应用领域取得突破。 实现智能的算法与系统。与量子计算相互促进、协同演进。 使机器具备智能行为的技术与方法集合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "深度学习技术",
+      "type": "TECHNOLOGY",
+      "description": "人工智能中的重要方法，通过多层神经网络进行表示学习。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "量子计算机",
+      "type": "PRODUCT",
+      "description": "实现量子计算的物理设备，利用量子叠加和量子纠缠来处理复杂问题。 在VQE中负责制备试探波函数并测量能量期望值的计算设备。 基于量子比特进行计算的设备。 可直接模拟量子系统，避免经典计算在大规模分子上遇到的指数墙问题。 足够强大的量子计算设备，能够运行某些量子算法。 使用量子比特进行计算的计算机，建造和运维成本极高。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_3",
+        "doc_0_rag_kg_test_article.md.txt_chunk_6",
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_13",
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "量子力学",
+      "type": "CONCEPT",
+      "description": "研究微观世界的物理学理论，为量子计算机提供基础原理。 研究微观世界的基础物理学领域。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "量子叠加",
+      "type": "CONCEPT",
+      "description": "量子力学中的核心现象，量子态可处于多个状态的叠加。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "量子纠缠",
+      "type": "CONCEPT",
+      "description": "量子力学中的非经典关联现象，多个量子态相互依赖。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "经典计算机",
+      "type": "PRODUCT",
+      "description": "基于经典比特进行计算的计算设备，在某些问题上效率较低于量子计算机。 在VQE中负责优化变分参数的计算设备。 基于经典比特与冯诺依曼架构的计算设备。 在处理含有超过50个电子的分子时面临指数墙问题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_3",
+        "doc_0_rag_kg_test_article.md.txt_chunk_6",
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "图像识别",
+      "type": "TECHNOLOGY",
+      "description": "从图像中提取并识别对象或特征的技术，是深度学习的重要应用领域。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "自然语言处理",
+      "type": "TECHNOLOGY",
+      "description": "使计算机理解和生成自然语言的技术，是深度学习的重要应用领域。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "张伟教授",
+      "type": "PERSON",
+      "description": "在量子计算与人工智能交叉领域提出重要概念的学者。 被描述为量子神经网络理论的创始人。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "2019年",
+      "type": "DATE",
+      "description": "张伟教授发表开创性论文的年份。 Havlíček等人相关研究的年份。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "《自然》杂志",
+      "type": "ORGANIZATION",
+      "description": "国际知名学术期刊，刊载了相关开创性论文。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "开创性论文",
+      "type": "PRODUCT",
+      "description": "由张伟教授于2019年在《自然》发表，首次提出“量子神经网络”概念的论文。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "量子神经网络",
+      "type": "CONCEPT",
+      "description": "将量子态与神经网络框架结合的概念，用于更高效地进行学习与推断。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "量子态",
+      "type": "CONCEPT",
+      "description": "量子系统的状态描述，用作量子神经网络中的激活机制。 量子系统的状态，可由参数化量子线路生成。 量子系统的状态信息，受噪声影响可能发生退相干。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "激活函数",
+      "type": "CONCEPT",
+      "description": "神经网络中用于引入非线性的函数，在量子神经网络中由量子态承担角色。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "量子门操作",
+      "type": "TECHNOLOGY",
+      "description": "对量子比特施加的基本操作，在量子神经网络中用于高效的梯度计算。 量子计算中的基本操作单元（量子门）的执行。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "经典反向传播",
+      "type": "TECHNOLOGY",
+      "description": "训练神经网络的传统算法，用于梯度计算。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "梯度计算",
+      "type": "CONCEPT",
+      "description": "优化与训练过程中计算参数梯度的过程，是学习算法的核心步骤。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "量子计算基础架构",
+      "type": "CONCEPT",
+      "description": "关于量子计算系统组成与实现方式的框架性内容。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "量子比特",
+      "type": "CONCEPT",
+      "description": "量子计算的基本信息单元，可处于叠加态。 量子计算的基本信息单位。 量子计算的基本信息单元。每增加一个需要增加配套硬件。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "21世纪",
+      "type": "DATE",
+      "description": "文本中用于指代技术发展的时代背景。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_0"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "表面码",
+      "type": "TECHNOLOGY",
+      "description": "一种量子纠错编码，被认为目前最有前景的量子纠错方案。 一种量子纠错码，文中具有约1000:1的开销比。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "量子纠错编码",
+      "type": "CONCEPT",
+      "description": "用于在量子计算中检测并纠正错误的编码方法集合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "量子纠错",
+      "type": "CONCEPT",
+      "description": "在量子计算中减少和纠正量子误差的总体方法与理念。 用于纠正量子计算中错误的技术。 检测并纠正量子计算中错误的技术与方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Google",
+      "type": "ORGANIZATION",
+      "description": "一家从事量子计算研究的科技公司。 科技公司，Cirq的开发者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "2023年",
+      "type": "DATE",
+      "description": "年份标记，文中提及Google于该年开展实验。 论文撰写或发表的年份。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Google 2023年实验",
+      "type": "EVENT",
+      "description": "Google于2023年进行的使用表面码的量子纠错实验。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "物理量子比特",
+      "type": "CONCEPT",
+      "description": "底层硬件直接实现的量子比特，作为编码的物理资源。 实际硬件上的量子比特，需要大量以实现足够的逻辑比特。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "逻辑量子比特",
+      "type": "CONCEPT",
+      "description": "通过量子纠错编码得到的稳健信息载体。 具有纠错能力的量子比特抽象层。 量子计算中的理想量子比特，用于表示经纠错后的有效量子比特。 通过量子纠错得到的稳定量子比特。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8",
+        "doc_0_rag_kg_test_article.md.txt_chunk_9",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "逻辑错误率",
+      "type": "CONCEPT",
+      "description": "逻辑量子比特层面的错误发生概率。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "物理错误率",
+      "type": "CONCEPT",
+      "description": "物理量子比特层面的错误发生概率。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "王芳",
+      "type": "PERSON",
+      "description": "研究员，评价表面码并提出改进方案。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "色码方案",
+      "type": "TECHNOLOGY",
+      "description": "一种量子纠错编码方案，被提出以降低空间开销。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "解码算法",
+      "type": "TECHNOLOGY",
+      "description": "从误差综合中恢复逻辑信息的算法过程。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "量子机器学习算法",
+      "type": "CONCEPT",
+      "description": "用于机器学习任务的量子算法类别。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "变分量子特征值求解器（VQE）",
+      "type": "TECHNOLOGY",
+      "description": "一种变分混合量子-经典算法，用于求解哈密顿量的基态能量等特征值问题。 一种量子-经典混合的变分算法，用于求解量子系统的特征值问题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Peruzzo",
+      "type": "PERSON",
+      "description": "VQE相关工作的研究者之一。 在2014年提出VQE算法的研究者之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2",
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "量子误差",
+      "type": "CONCEPT",
+      "description": "量子计算过程中由噪声与不完美操作引入的误差。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "量子门",
+      "type": "CONCEPT",
+      "description": "量子电路中的基本操作单元。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "空间开销",
+      "type": "CONCEPT",
+      "description": "实现某种编码或算法所需的物理资源（如量子比特）数量。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_2"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "2014年",
+      "type": "DATE",
+      "description": "VQE算法被提出的年份。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "噪声中等规模量子时代（NISQ）",
+      "type": "CONCEPT",
+      "description": "指当前量子硬件具备有限量子比特且存在噪声的时代背景。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "量子-经典混合架构",
+      "type": "CONCEPT",
+      "description": "VQE采用的计算架构，量子部分与经典部分协同工作。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "试探波函数",
+      "type": "CONCEPT",
+      "description": "VQE中由量子计算机制备的参数化量子态。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "能量期望值",
+      "type": "CONCEPT",
+      "description": "VQE中对哈密顿量的期望值，用于评估能量。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "变分参数",
+      "type": "CONCEPT",
+      "description": "VQE中由经典优化器调整的参数。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "陈杰教授",
+      "type": "PERSON",
+      "description": "将VQE应用于药物分子模拟的研究团队负责人。 2022年从事量子药物模拟应用研究的学者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "陈杰教授团队",
+      "type": "ORGANIZATION",
+      "description": "陈杰教授领导的研究团队，开展VQE在制药相关方向的研究。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "药物分子模拟",
+      "type": "CONCEPT",
+      "description": "利用计算方法模拟药物分子的性质与行为的研究方向。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "青蒿素分子",
+      "type": "PRODUCT",
+      "description": "一种抗疟疾药物分子（Artemisinin），为研究对象。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "基态能量",
+      "type": "CONCEPT",
+      "description": "量子系统能量最低的能级。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "0.1电子伏特",
+      "type": "OTHER",
+      "description": "一次计算结果的能量误差量级。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "2022年",
+      "type": "DATE",
+      "description": "团队完成青蒿素分子基态能量计算的年份。 项目识别出高活性化合物的年份。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3",
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "化学反应路径",
+      "type": "CONCEPT",
+      "description": "描述化学反应从反应物到产物的可能路径与过渡态。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "量子计算在制药领域的应用",
+      "type": "CONCEPT",
+      "description": "量子计算技术在药物研发与发现中的应用前景。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "VQE收敛速度",
+      "type": "CONCEPT",
+      "description": "VQE优化过程中能量收敛至最优解的速度。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "拟设函数",
+      "type": "CONCEPT",
+      "description": "VQE中用于构造试探波函数的参数化量子线路（Ansatz）。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "刘洋博士",
+      "type": "PERSON",
+      "description": "提出硬件高效拟设的研究者。 提出了硬件高效拟设（Hardware Efficient Ansatz）。 硬件高效拟设的开发者。关注近端量子设备可实现的参数化线路设计。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3",
+        "doc_0_rag_kg_test_article.md.txt_chunk_4",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "硬件高效拟设（Hardware Efficient Ansatz）",
+      "type": "TECHNOLOGY",
+      "description": "一种面向硬件实现友好的VQE拟设结构。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "青蒿素分子基态能量计算",
+      "type": "EVENT",
+      "description": "在2022年对青蒿素分子基态能量进行的计算，误差约0.1 eV。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_3"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "硬件高效拟设 (Hardware Efficient Ansatz)",
+      "type": "TECHNOLOGY",
+      "description": "一种量子电路拟设，量子门深度较浅，但对强关联系统的表达能力有限。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "强关联系统",
+      "type": "CONCEPT",
+      "description": "具有显著电子相互作用效应的量子多体系统。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "幺正耦合簇拟设 (UCC)",
+      "type": "TECHNOLOGY",
+      "description": "需要更深的量子线路的拟设，能更准确地描述电子关联效应。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "量子线路",
+      "type": "TECHNOLOGY",
+      "description": "实现量子算法的量子门序列与拓扑结构。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "电子关联效应",
+      "type": "CONCEPT",
+      "description": "电子之间相互作用导致的相关性现象。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "量子支持向量机 (QSVM)",
+      "type": "TECHNOLOGY",
+      "description": "利用量子核技巧在高维希尔伯特空间中进行分类的量子机器学习方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "量子核技巧",
+      "type": "TECHNOLOGY",
+      "description": "基于量子态内积评估的核方法，用于提升特征映射能力。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "高维希尔伯特空间",
+      "type": "CONCEPT",
+      "description": "量子态所在的高维线性向量空间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Havlíček等人",
+      "type": "PERSON",
+      "description": "在2019年的研究中展示了量子特征空间的线性可分性优势。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "某些数据集",
+      "type": "OTHER",
+      "description": "在量子特征空间中线性可分，但在经典特征空间中不可分的数据集。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "量子特征空间",
+      "type": "CONCEPT",
+      "description": "通过量子特征映射得到的特征空间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "经典特征空间",
+      "type": "CONCEPT",
+      "description": "通过经典特征映射得到的特征空间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "赵敏团队",
+      "type": "ORGANIZATION",
+      "description": "将QSVM应用于医学图像分类的研究团队。 开展量子SVM医学应用研究的团队。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "医学图像分类",
+      "type": "CONCEPT",
+      "description": "对医学影像进行自动化类别判别的任务。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "乳腺癌MRI数据集",
+      "type": "OTHER",
+      "description": "包含500名患者的乳腺癌MRI数据集，用于评估分类性能。 包含500名患者的乳腺癌MRI数据集，用于模型评估。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4",
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "量子门深度",
+      "type": "CONCEPT",
+      "description": "量子电路中串行量子门的层数，反映电路深度。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_4"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "QSVM",
+      "type": "TECHNOLOGY",
+      "description": "量子支持向量机，用于分类任务。在乳腺癌MRI数据集上取得了较高准确率。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "经典SVM",
+      "type": "TECHNOLOGY",
+      "description": "经典的支持向量机算法，用于机器学习分类。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "医学数据稀缺的场景",
+      "type": "CONCEPT",
+      "description": "医学领域中可用标注数据较少的应用环境。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "黄强博士",
+      "type": "PERSON",
+      "description": "研究者，对QSVM的量子优势提出了质疑。 量子核\"无免费午餐\"定理的证明者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "量子优势",
+      "type": "CONCEPT",
+      "description": "量子算法相对于经典算法在某些任务上的性能或资源优势。 量子计算相较经典方法的性能优势概念。 量子计算在特定任务上超越经典算法的性能优势。文中讨论其是否在D-Wave设备上出现。 量子方法在特定任务上优于经典方法的优势。被期待出现在商业应用中。 量子计算在特定任务上相对于经典计算的性能优势。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_9",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "量子核",
+      "type": "TECHNOLOGY",
+      "description": "用于核方法的量子核函数，可与经典算法比较其加速性。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "经典门",
+      "type": "TECHNOLOGY",
+      "description": "经典计算中的逻辑门，用于对量子核进行可模拟性分析。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "无免费午餐定理",
+      "type": "CONCEPT",
+      "description": "“无免费午餐”定理，指出优势仅在特定问题结构中出现。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "指数级加速",
+      "type": "CONCEPT",
+      "description": "相对于经典算法在时间或资源上呈指数级提升的加速效果。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "量子生成对抗网络(QGAN)",
+      "type": "TECHNOLOGY",
+      "description": "将GAN框架扩展到量子域的生成对抗模型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "GAN框架",
+      "type": "TECHNOLOGY",
+      "description": "生成对抗网络框架，由生成器与判别器组成。 生成对抗网络的框架，被扩展到量子领域。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "参数化量子线路",
+      "type": "TECHNOLOGY",
+      "description": "可调参数的量子电路，用于生成量子态。 通过可调参数的量子门构建的量子电路，用于生成量子态。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "生成器",
+      "type": "TECHNOLOGY",
+      "description": "QGAN中的组件，用于生成量子态。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "判别器",
+      "type": "TECHNOLOGY",
+      "description": "QGAN中的组件，用于区分生成态与真实数据态。 QGAN中的判别模型，试图区分生成态与真实数据态。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "真实数据态",
+      "type": "CONCEPT",
+      "description": "来源于真实数据分布的状态，用于判别器区分。 来自真实数据的量子状态表示。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "量子域",
+      "type": "CONCEPT",
+      "description": "量子计算与量子信息的应用领域。 量子计算相关的研究与应用领域。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5",
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "生成态",
+      "type": "CONCEPT",
+      "description": "由生成器产生的量子态，用于与真实数据态对比。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "特定的问题结构",
+      "type": "CONCEPT",
+      "description": "具备使量子算法可能展现优势的特殊问题结构或分布。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_5"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "QGAN",
+      "type": "TECHNOLOGY",
+      "description": "将GAN框架扩展到量子计算的概念与方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "量子生成器",
+      "type": "TECHNOLOGY",
+      "description": "QGAN中的生成器，使用参数化量子线路生成量子态。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "生成量子态",
+      "type": "CONCEPT",
+      "description": "由量子生成器产生的量子状态。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Dallaire-Demers",
+      "type": "PERSON",
+      "description": "在2018年与Killoran共同提出QGAN概念的研究者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Killoran",
+      "type": "PERSON",
+      "description": "在2018年与Dallaire-Demers共同提出QGAN概念的研究者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "2018年",
+      "type": "DATE",
+      "description": "QGAN概念首次提出的年份。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "吴涛教授",
+      "type": "PERSON",
+      "description": "领导开展QGAN应用研究的教授。 推进量子GAN在金融场景应用的研究者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "吴涛教授的实验室",
+      "type": "ORGANIZATION",
+      "description": "开展QGAN在金融时间序列建模应用的研究团队。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "金融时间序列建模",
+      "type": "CONCEPT",
+      "description": "以时间序列方法分析金融数据的建模任务。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "股票价格",
+      "type": "CONCEPT",
+      "description": "金融市场中股票的价格序列。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "长程关联",
+      "type": "CONCEPT",
+      "description": "时间序列中远距离时间点之间的相关性结构。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "经典GAN",
+      "type": "TECHNOLOGY",
+      "description": "在经典计算环境下实现的GAN方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "量子模型",
+      "type": "TECHNOLOGY",
+      "description": "用于生成价格序列的量子方法/模型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Hurst指数",
+      "type": "CONCEPT",
+      "description": "用于衡量时间序列长程相关性的指标。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "价格序列",
+      "type": "CONCEPT",
+      "description": "由模型生成或真实观测的价格时间序列。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "药物研发",
+      "type": "CONCEPT",
+      "description": "新药发现与设计的研究与工程过程。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "量子模拟",
+      "type": "TECHNOLOGY",
+      "description": "利用量子系统模拟其他复杂量子或分子系统的技术。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "新药研发",
+      "type": "CONCEPT",
+      "description": "针对新药的研发活动。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "分子间的相互作用能",
+      "type": "CONCEPT",
+      "description": "分子之间相互作用的能量，是新药研发中的关键计算目标。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "含有超过50个电子的分子",
+      "type": "CONCEPT",
+      "description": "电子数较多、计算复杂度高的分子体系。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "指数墙问题",
+      "type": "CONCEPT",
+      "description": "计算复杂度随系统规模指数增长而难以处理的瓶颈。 计算复杂度随系统规模呈指数增长的瓶颈，使经典方法在大体系上变得不可行。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_6",
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "罗伯特·史密斯博士",
+      "type": "PERSON",
+      "description": "领导相关研究团队的科学家。带领团队与企业合作开展量子计算药物筛选。 量子药物筛选项目负责人。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "罗伯特·史密斯博士团队",
+      "type": "ORGANIZATION",
+      "description": "由罗伯特·史密斯博士领导的研究团队，执行量子计算药物筛选项目并开发工作流。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "辉瑞制药公司",
+      "type": "ORGANIZATION",
+      "description": "制药企业，与研究团队合作使用量子计算机筛选新冠病毒主蛋白酶抑制剂。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "超过50个电子的分子",
+      "type": "CONCEPT",
+      "description": "电子数较多的分子体系，经典计算在此类体系上面临指数墙问题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "量子系统",
+      "type": "CONCEPT",
+      "description": "由量子力学支配的物理系统，可被量子计算机直接模拟。 遵循量子力学规律的物理或计算系统。容易受到环境噪声干扰。 实现量子计算的物理或软件系统。需要校准、纠错与算法设计支持。 由量子硬件与软件组成的系统，用于执行量子计算。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "新冠病毒主蛋白酶",
+      "type": "CONCEPT",
+      "description": "新冠病毒复制相关的关键蛋白，是药物设计的靶点。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "新冠病毒主蛋白酶抑制剂",
+      "type": "PRODUCT",
+      "description": "针对新冠病毒主蛋白酶的候选药物分子。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "量子-经典混合工作流",
+      "type": "TECHNOLOGY",
+      "description": "结合经典分子动力学、VQE算法与机器学习模型的工作流程，用于药物筛选。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "经典分子动力学",
+      "type": "TECHNOLOGY",
+      "description": "用于对候选分子进行粗筛的经典模拟方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "VQE算法",
+      "type": "TECHNOLOGY",
+      "description": "可变参数量子本征求解器，用于精确计算分子与靶蛋白的结合能。 变分量子特征求解器，用于计算分子与靶蛋白的结合能。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "机器学习模型",
+      "type": "TECHNOLOGY",
+      "description": "用于预测候选化合物的药代动力学性质。 用于预测药代动力学性质的模型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "结合能",
+      "type": "CONCEPT",
+      "description": "分子与靶蛋白之间相互作用强度的能量指标。 分子与靶蛋白之间的结合能量。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "靶蛋白",
+      "type": "CONCEPT",
+      "description": "药物分子设计时作用的目标蛋白。 药物发现中的目标蛋白，与分子发生结合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "药代动力学性质",
+      "type": "CONCEPT",
+      "description": "描述药物在体内的吸收、分布、代谢和排泄等行为的性质。 药物的吸收、分布、代谢和排泄等性质。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7",
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "23个高活性化合物",
+      "type": "PRODUCT",
+      "description": "从10万个候选分子中识别出的23个高活性分子。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "5个化合物",
+      "type": "PRODUCT",
+      "description": "进入临床前研究阶段的5个化合物，属于已识别的高活性分子子集。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "临床前研究阶段",
+      "type": "CONCEPT",
+      "description": "药物研发中在临床试验前进行的研究阶段。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "10万个候选分子",
+      "type": "OTHER",
+      "description": "初始药物候选库的规模。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "1000个候选分子",
+      "type": "OTHER",
+      "description": "经过粗筛后保留的候选分子数量。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "传统计算方法",
+      "type": "TECHNOLOGY",
+      "description": "基于经典算法的药物筛选流程，完成相同任务耗时更长。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "量子方法",
+      "type": "TECHNOLOGY",
+      "description": "基于量子计算的药物筛选流程，执行相同任务所需时间更短。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "3周",
+      "type": "DATE",
+      "description": "量子方法完成任务所用时间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "6个月",
+      "type": "DATE",
+      "description": "传统计算方法完成同一任务所用时间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "分子间相互作用能",
+      "type": "CONCEPT",
+      "description": "衡量分子之间相互作用的能量大小，计算该量是核心挑战。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "筛选新冠病毒主蛋白酶抑制剂项目",
+      "type": "EVENT",
+      "description": "使用量子计算机开展的新冠病毒主蛋白酶抑制剂筛选项目。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_7"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "1000个分子",
+      "type": "OTHER",
+      "description": "参与与靶蛋白的结合能计算的分子集合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "金融风险管理的量子算法",
+      "type": "CONCEPT",
+      "description": "用于金融风险管理的量子计算方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "摩根大通银行",
+      "type": "ORGANIZATION",
+      "description": "国际金融机构JPMorgan Chase Bank。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "量子研究团队",
+      "type": "ORGANIZATION",
+      "description": "摩根大通银行的量子研究团队。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "量子蒙特卡洛算法",
+      "type": "TECHNOLOGY",
+      "description": "用于期权定价的量子算法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "期权定价",
+      "type": "CONCEPT",
+      "description": "计算期权价值的过程。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "量子振幅估计技术",
+      "type": "TECHNOLOGY",
+      "description": "量子算法中用于提升采样效率的技术。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "衍生品价格",
+      "type": "CONCEPT",
+      "description": "金融衍生品的价格。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "样本复杂度",
+      "type": "CONCEPT",
+      "description": "计算所需样本数量的复杂度指标。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "O(ε⁻²)",
+      "type": "CONCEPT",
+      "description": "样本复杂度量级，传统估计随精度参数的二次反比。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "O(ε⁻¹)",
+      "type": "CONCEPT",
+      "description": "样本复杂度量级，经量子方法降低到随精度的一次反比。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "ε",
+      "type": "CONCEPT",
+      "description": "目标精度参数。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "目标精度",
+      "type": "CONCEPT",
+      "description": "计算任务所要求的误差上限。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "林娜博士",
+      "type": "PERSON",
+      "description": "在论文中分析量子算法实用性的研究者。 2023年进行量子金融算法实用性分析的研究者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "林娜博士2023年论文",
+      "type": "PRODUCT",
+      "description": "林娜博士于2023年的论文，详细分析量子蒙特卡洛算法的实用性。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "金融情景",
+      "type": "CONCEPT",
+      "description": "用于评估风险或定价的金融场景集合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "10⁶",
+      "type": "OTHER",
+      "description": "数量阈值一百万。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "量子算法",
+      "type": "TECHNOLOGY",
+      "description": "用于金融等领域的量子计算算法统称。 各类基于量子计算的算法。可加速机器学习中的关键任务。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "小规模投资组合",
+      "type": "CONCEPT",
+      "description": "资产维度较低的投资组合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "经典方法",
+      "type": "TECHNOLOGY",
+      "description": "传统的非量子计算方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "问题规模",
+      "type": "CONCEPT",
+      "description": "金融问题的维度或场景数量等规模指标。 优化问题的维度或变量数量大小。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8",
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "100维投资组合",
+      "type": "CONCEPT",
+      "description": "维度为100的投资组合。 维度为100的投资组合优化实例，被用于量子比特需求估算。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_8",
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "量子比特数量需求",
+      "type": "CONCEPT",
+      "description": "解决优化问题所需的量子比特数量需求，随问题规模变化。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "交通网络优化",
+      "type": "CONCEPT",
+      "description": "在交通系统中进行的网络与流量的优化领域。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "交通流量优化",
+      "type": "CONCEPT",
+      "description": "交通领域中的优化任务，被视为典型的组合优化问题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "组合优化问题",
+      "type": "CONCEPT",
+      "description": "在离散空间中寻找最优组合的优化问题类型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "大众汽车公司",
+      "type": "ORGANIZATION",
+      "description": "汽车制造企业，与D-Wave合作开展交通优化项目。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "D-Wave",
+      "type": "ORGANIZATION",
+      "description": "量子计算公司，提供量子退火技术与硬件。 量子计算公司。其量子退火机的量子优势受到质疑。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "量子退火算法",
+      "type": "TECHNOLOGY",
+      "description": "用于求解组合优化问题的量子退火方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "里斯本市",
+      "type": "LOCATION",
+      "description": "项目应用的城市。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "出租车路径规划",
+      "type": "CONCEPT",
+      "description": "为出租车分配乘客请求并规划行驶路径的优化问题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "里斯本出租车路径优化项目",
+      "type": "EVENT",
+      "description": "大众汽车公司与D-Wave合作，使用量子退火算法优化里斯本市出租车路径规划的项目。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "418辆出租车",
+      "type": "OTHER",
+      "description": "项目中需要分配实时乘客请求的出租车数量。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "实时乘客请求",
+      "type": "CONCEPT",
+      "description": "系统接收并需要分配给车辆的乘客打车需求。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "总行驶距离",
+      "type": "CONCEPT",
+      "description": "优化目标之一，力求最小化的指标。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "乘客等待时间",
+      "type": "CONCEPT",
+      "description": "优化目标之一，力求最小化的服务指标。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "徐磊工程师",
+      "type": "PERSON",
+      "description": "负责该项目技术实施的工程师。 量子交通优化系统的实施者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 179,
+      "name": "D-Wave的量子退火机",
+      "type": "PRODUCT",
+      "description": "D-Wave提供的量子退火硬件，用于求解优化问题。 D-Wave公司推出的量子退火设备。被质疑是否展现真正的量子优势。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "优化问题",
+      "type": "CONCEPT",
+      "description": "包含10,000个变量的组合优化任务，用于性能对比。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "10,000个变量",
+      "type": "OTHER",
+      "description": "被求解的优化问题包含的变量数量。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "经典求解器",
+      "type": "TECHNOLOGY",
+      "description": "求解组合优化问题的经典算法/工具。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "1.2秒",
+      "type": "OTHER",
+      "description": "量子退火机在该优化问题上的求解时间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "45秒",
+      "type": "OTHER",
+      "description": "经典求解器在该优化问题上的求解时间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "5秒",
+      "type": "OTHER",
+      "description": "系统对交通状况变化的响应时间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "交通状况变化",
+      "type": "CONCEPT",
+      "description": "交通系统状态的实时变化。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "用户体验",
+      "type": "CONCEPT",
+      "description": "系统服务质量与乘客体验的总体评价。 用户在使用系统或产品时的感受与满意度。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "马丁教授",
+      "type": "PERSON",
+      "description": "提出批评观点的教授，质疑量子退火的量子优势。 批评者之一，认为D-Wave的量子退火机未展现真正的量子优势。其观点基于对结构化问题的基准测试结果。 对量子退火优势持怀疑态度的学者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_9",
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "基准测试",
+      "type": "CONCEPT",
+      "description": "用于评估系统或算法性能的方法。文中用于评估结构化问题上的表现。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "结构化问题",
+      "type": "CONCEPT",
+      "description": "具有特定结构或规则的计算/优化问题。用来比较量子退火机与经典算法的性能。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "优化过的经典算法",
+      "type": "TECHNOLOGY",
+      "description": "对传统算法进行优化的实现。在结构化问题上表现与D-Wave量子退火机相当或更好。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "争论",
+      "type": "EVENT",
+      "description": "关于D-Wave量子退火机是否具备量子优势的持续讨论。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "环境噪声",
+      "type": "CONCEPT",
+      "description": "外部干扰因素，会导致量子态退相干。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 194,
+      "name": "退相干问题",
+      "type": "CONCEPT",
+      "description": "量子态失去相干性的现象与挑战。是量子系统面临的关键技术瓶颈。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "IBM",
+      "type": "ORGANIZATION",
+      "description": "科技公司。其超导量子比特的T₂时间约为100微秒。 科技公司，Qiskit的开发者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "超导量子比特",
+      "type": "TECHNOLOGY",
+      "description": "基于超导电路实现的量子比特技术。文中提到其T₂时间约为100微秒。 基于超导电路实现的量子比特物理平台。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "T₂时间",
+      "type": "CONCEPT",
+      "description": "量子比特的相干时间参数，反映量子态维持相干的能力。 量子相干的一种度量，文中被延长至约350微秒。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "100微秒",
+      "type": "OTHER",
+      "description": "IBM超导量子比特的T₂时间量级。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "1000个量子门操作",
+      "type": "OTHER",
+      "description": "在T₂约为100微秒的限制下可执行的量子门操作数量级。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Shor算法",
+      "type": "TECHNOLOGY",
+      "description": "用于大整数分解的量子算法。分解2048位RSA整数需要大量量子门。 用于大整数分解的量子算法，可破解现有公钥密码。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 201,
+      "name": "2048位RSA整数",
+      "type": "CONCEPT",
+      "description": "RSA密码系统常用的密钥长度对应的整数，Shor算法的分解目标。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "10⁹个量子门",
+      "type": "OTHER",
+      "description": "运行Shor算法以分解2048位RSA整数所需的量子门数量级。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "孙婷博士",
+      "type": "PERSON",
+      "description": "研究者，相关团队提出动态解耦技术以延长相干时间。 动态解耦技术的开发者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "孙婷博士团队",
+      "type": "ORGANIZATION",
+      "description": "由孙婷博士领导的研究团队，提出动态解耦技术。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "动态解耦技术",
+      "type": "TECHNOLOGY",
+      "description": "通过施加特定脉冲序列延长量子比特相干时间的控制方法。 通过控制脉冲抑制量子噪声以延长相干时间的量子控制技术。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 206,
+      "name": "相干时间",
+      "type": "CONCEPT",
+      "description": "量子态保持相干的时间尺度，影响可执行量子门的数量。 量子系统保持量子相干性的时间尺度。文本提到可通过技术手段延长。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "脉冲序列",
+      "type": "TECHNOLOGY",
+      "description": "控制方法中的一系列脉冲，用于实现动态解耦。 周期性施加的特定脉冲序列，用于延长量子系统的相干时间/T₂时间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "350微秒",
+      "type": "OTHER",
+      "description": "应用动态解耦技术后T₂时间延长到的量级。 文中T₂时间被延长到的数值。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_10",
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "量子线路深度",
+      "type": "CONCEPT",
+      "description": "量子电路中串行门操作的层数，增加会带来代价。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "门误差",
+      "type": "CONCEPT",
+      "description": "量子门操作中的误差，线路深度增加可能引入更多。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "大规模量子计算机",
+      "type": "TECHNOLOGY",
+      "description": "拥有大量量子比特的量子计算系统，构建面临严峻工程挑战。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 212,
+      "name": "工程挑战",
+      "type": "CONCEPT",
+      "description": "构建大规模量子计算机时面对的工程难题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 213,
+      "name": "控制线",
+      "type": "TECHNOLOGY",
+      "description": "用于控制量子比特的线路。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 214,
+      "name": "读取电路",
+      "type": "TECHNOLOGY",
+      "description": "用于读取量子比特状态的电路。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 215,
+      "name": "制冷系统",
+      "type": "TECHNOLOGY",
+      "description": "用于保持量子硬件低温的系统。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "微软",
+      "type": "ORGANIZATION",
+      "description": "从事量子计算研发的公司，文中正在研发拓扑量子比特。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "拓扑量子比特",
+      "type": "TECHNOLOGY",
+      "description": "一种理论上具有天然抗噪声特性的量子比特类型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "抗噪声特性",
+      "type": "CONCEPT",
+      "description": "降低噪声影响的特性，能减少纠错开销。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 219,
+      "name": "量子纠错开销",
+      "type": "CONCEPT",
+      "description": "实现量子纠错所需的资源开销。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "张华博士",
+      "type": "PERSON",
+      "description": "提出资源需求估算的研究者。 从事量子化学模拟资源估算工作的学者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 221,
+      "name": "量子化学模拟",
+      "type": "CONCEPT",
+      "description": "量子计算在化学领域的应用，目标是达到实用价值。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 222,
+      "name": "开销比1000:1",
+      "type": "OTHER",
+      "description": "表面码下逻辑与物理量子比特的资源比。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "2030年代中期",
+      "type": "DATE",
+      "description": "预计实现百万级物理量子比特规模的时间节点。 一个时间范围，文中用于描述目标可能的实现时间。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11",
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 224,
+      "name": "量子软件生态",
+      "type": "CONCEPT",
+      "description": "量子计算的软件与工具生态，文中仅作为章节标题提及。 量子软件相关的生态与发展。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_11",
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Qiskit",
+      "type": "TECHNOLOGY",
+      "description": "IBM的主流量子编程框架。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Cirq",
+      "type": "TECHNOLOGY",
+      "description": "Google的主流量子编程框架。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Microsoft",
+      "type": "ORGANIZATION",
+      "description": "科技公司，Q#的开发者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Q#",
+      "type": "TECHNOLOGY",
+      "description": "微软的量子编程语言/框架。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 229,
+      "name": "周敏教授",
+      "type": "PERSON",
+      "description": "教授，领导开发量子机器学习库PennyLane。 PennyLane量子机器学习库的创始人。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 230,
+      "name": "PennyLane",
+      "type": "TECHNOLOGY",
+      "description": "量子机器学习库，可与PyTorch和TensorFlow无缝集成。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 231,
+      "name": "PyTorch",
+      "type": "TECHNOLOGY",
+      "description": "深度学习框架。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 232,
+      "name": "TensorFlow",
+      "type": "TECHNOLOGY",
+      "description": "深度学习框架。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 233,
+      "name": "GitHub",
+      "type": "ORGANIZATION",
+      "description": "代码托管平台，PennyLane项目在其上获得超过15,000星标。 全球性的代码托管与协作平台。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12",
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 234,
+      "name": "量子编程框架",
+      "type": "CONCEPT",
+      "description": "用于开发量子程序的框架类别。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 235,
+      "name": "更高层次的抽象",
+      "type": "CONCEPT",
+      "description": "软件设计的抽象层级提升目标。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 236,
+      "name": "量子应用",
+      "type": "CONCEPT",
+      "description": "面向实际问题的量子计算应用。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 237,
+      "name": "领域专家",
+      "type": "OTHER",
+      "description": "非量子计算背景的专业从业者。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "量子机器学习库",
+      "type": "CONCEPT",
+      "description": "用于量子机器学习的库类别。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 239,
+      "name": "量子-经典混合模型",
+      "type": "CONCEPT",
+      "description": "结合量子与经典计算的模型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 240,
+      "name": "量子梯度计算",
+      "type": "CONCEPT",
+      "description": "量子模型参数的梯度计算过程。 量子机器学习中用于优化的梯度计算方法。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12",
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 241,
+      "name": "优化",
+      "type": "CONCEPT",
+      "description": "模型训练中的优化过程。 提升模型或算法性能的过程。 寻找最优解的计算任务。是机器学习中的核心任务之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12",
+        "doc_0_rag_kg_test_article.md.txt_chunk_13",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "经典神经网络",
+      "type": "CONCEPT",
+      "description": "传统的深度学习神经网络。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "软件工具",
+      "type": "CONCEPT",
+      "description": "用于开发与运行软件的工具集合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "硬件",
+      "type": "CONCEPT",
+      "description": "计算硬件（量子或经典）。 物理硬件及相关技术领域。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12",
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 245,
+      "name": "子比特",
+      "type": "CONCEPT",
+      "description": "与文中目标相关的概念（上下文未提供细节）。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_12"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "该项目",
+      "type": "PRODUCT",
+      "description": "一款自动处理量子梯度计算和优化的工具，在GitHub上获得超过15,000星标，被量子机器学习社区视为标准工具。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 247,
+      "name": "量子机器学习社区",
+      "type": "ORGANIZATION",
+      "description": "关注量子机器学习领域的社区。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 248,
+      "name": "伦理与社会影响",
+      "type": "CONCEPT",
+      "description": "章节主题，讨论量子技术的伦理与社会层面的影响。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "密码学安全威胁",
+      "type": "CONCEPT",
+      "description": "小节主题，讨论量子计算对现有密码体系的威胁。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 250,
+      "name": "计算资源不平等",
+      "type": "CONCEPT",
+      "description": "小节主题，涉及计算资源分配不均的社会问题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "RSA",
+      "type": "TECHNOLOGY",
+      "description": "广泛使用的公钥加密体系。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 252,
+      "name": "椭圆曲线加密体系",
+      "type": "TECHNOLOGY",
+      "description": "基于椭圆曲线的公钥加密和签名算法家族。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "美国国家标准与技术研究院（NIST）",
+      "type": "ORGANIZATION",
+      "description": "美国联邦机构，负责标准制定与技术研究。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 254,
+      "name": "后量子密码学标准化进程",
+      "type": "EVENT",
+      "description": "NIST发起的针对后量子密码的标准化过程。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 255,
+      "name": "2024年",
+      "type": "DATE",
+      "description": "预计公布后量子密码最终标准的年份。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "王晓明研究员",
+      "type": "PERSON",
+      "description": "参与NIST评审工作的研究员。 条目不完整，仅提及“后量”，具体研究方向不详。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "NIST评审工作",
+      "type": "EVENT",
+      "description": "与后量子密码标准化相关的评审活动。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "后量子密码",
+      "type": "CONCEPT",
+      "description": "可抵御量子计算攻击的密码学方案。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 259,
+      "name": "后量子密码迁移",
+      "type": "EVENT",
+      "description": "将现有系统升级到后量子密码的过程。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "10-15年",
+      "type": "DATE",
+      "description": "预计完成迁移所需的时间范围。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 261,
+      "name": "关键基础设施",
+      "type": "CONCEPT",
+      "description": "如银行系统、政府通信网络等重要信息基础设施。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 262,
+      "name": "银行系统",
+      "type": "ORGANIZATION",
+      "description": "金融行业的关键基础设施之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 263,
+      "name": "政府通信网络",
+      "type": "ORGANIZATION",
+      "description": "政府部门使用的通信网络，是关键基础设施之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "现在窃取,未来解密",
+      "type": "CONCEPT",
+      "description": "先窃取加密数据、待量子技术成熟后再解密的威胁模式。 攻击者先窃取加密数据，待未来具备更强计算能力再解密的威胁模型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_13",
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 265,
+      "name": "通信网络",
+      "type": "TECHNOLOGY",
+      "description": "通信基础设施网络，被建议尽早升级以应对安全威胁。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "技术发达国家",
+      "type": "LOCATION",
+      "description": "经济与技术较为先进的国家群体。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 267,
+      "name": "发展中国家",
+      "type": "LOCATION",
+      "description": "处于发展阶段的国家群体。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 268,
+      "name": "数字鸿沟",
+      "type": "CONCEPT",
+      "description": "不同群体或国家在信息技术获取与使用上的差距。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "联合国教科文组织",
+      "type": "ORGANIZATION",
+      "description": "联合国的专门机构，负责教育、科学与文化事务。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 270,
+      "name": "联合国教科文组织的报告",
+      "type": "OTHER",
+      "description": "联合国教科文组织发布的报告，提出量子计算资源共享建议。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 271,
+      "name": "国际量子计算资源共享机制",
+      "type": "CONCEPT",
+      "description": "旨在跨国共享量子计算资源的政策与协作机制。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 272,
+      "name": "欧盟",
+      "type": "ORGANIZATION",
+      "description": "欧洲联盟，区域性政治与经济组织。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 273,
+      "name": "量子旗舰计划",
+      "type": "EVENT",
+      "description": "欧盟启动的量子研究与创新旗舰计划，总预算约10亿欧元。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 274,
+      "name": "欧盟成员国",
+      "type": "LOCATION",
+      "description": "欧盟内的各成员国家。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 275,
+      "name": "量子计算资源",
+      "type": "CONCEPT",
+      "description": "量子计算能力及相关设施和服务。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "量子技术",
+      "type": "TECHNOLOGY",
+      "description": "基于量子原理的各类技术总称。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "就业机会",
+      "type": "CONCEPT",
+      "description": "新创造的工作岗位机会。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "传统岗位",
+      "type": "CONCEPT",
+      "description": "传统行业或岗位类型。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 279,
+      "name": "麦肯锡",
+      "type": "ORGANIZATION",
+      "description": "全球管理咨询公司。 全球管理咨询公司。文本中引用其研究对量子计算行业就业的预测。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 280,
+      "name": "麦肯锡的研究",
+      "type": "OTHER",
+      "description": "麦肯锡开展的研究，包含对量子计算就业的预测。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 281,
+      "name": "2030年",
+      "type": "DATE",
+      "description": "时间点，研究预测的目标年份。 时间点。麦肯锡研究预测到该年份量子计算行业将创造大量岗位。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "量子计算行业",
+      "type": "CONCEPT",
+      "description": "围绕量子计算技术的产业与市场。 围绕量子计算技术的产业领域。被预测将创造大量直接就业岗位。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14",
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 283,
+      "name": "研究人员",
+      "type": "OTHER",
+      "description": "从事科学研究的人员群体。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_14"
+      ]
+    },
+    {
+      "id": 284,
+      "name": "直接就业岗位",
+      "type": "OTHER",
+      "description": "由量子计算行业创造的工作岗位，规模约20万。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 285,
+      "name": "硬件工程",
+      "type": "CONCEPT",
+      "description": "工程领域。量子计算行业新增岗位的主要集中方向之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 286,
+      "name": "算法开发",
+      "type": "CONCEPT",
+      "description": "开发算法的专业领域。量子计算行业新增岗位的主要集中方向之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 287,
+      "name": "应用咨询领域",
+      "type": "CONCEPT",
+      "description": "面向应用落地的咨询服务领域。量子计算行业新增岗位的主要集中方向之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 288,
+      "name": "量子优化算法",
+      "type": "TECHNOLOGY",
+      "description": "用于解决优化问题的量子算法。可能取代部分传统岗位的工作。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 289,
+      "name": "运筹学专家",
+      "type": "PERSON",
+      "description": "从事运筹学的专业人才。部分工作可能被量子优化算法取代。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 290,
+      "name": "供应链分析师",
+      "type": "PERSON",
+      "description": "负责供应链分析的专业人员。部分工作可能被量子优化算法取代。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 291,
+      "name": "钱伟教授",
+      "type": "PERSON",
+      "description": "提出教育政策建议的学者。主张尽早调整课程以应对变革。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 292,
+      "name": "教育机构",
+      "type": "ORGANIZATION",
+      "description": "开展教育与人才培养的机构。被建议调整课程体系并培养人才。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "量子信息科学",
+      "type": "CONCEPT",
+      "description": "研究量子信息的学科领域。被建议纳入教育课程体系。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 294,
+      "name": "课程体系",
+      "type": "CONCEPT",
+      "description": "教育课程的结构与安排。建议将量子信息科学纳入其中。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 295,
+      "name": "跨学科人才",
+      "type": "PERSON",
+      "description": "具备多领域知识的人才。被建议重点培养以应对市场变革。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 296,
+      "name": "劳动力市场",
+      "type": "CONCEPT",
+      "description": "就业与用工的市场环境。正面临或将经历变革。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 297,
+      "name": "变革",
+      "type": "EVENT",
+      "description": "劳动力市场的变化与调整。教育与培养旨在应对此变化。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "融合",
+      "type": "CONCEPT",
+      "description": "不同技术的结合过程。文本中指量子计算与人工智能的结合。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 299,
+      "name": "协同演进",
+      "type": "CONCEPT",
+      "description": "相互促进、共同发展的过程。用于描述量子计算与人工智能关系。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 300,
+      "name": "机器学习",
+      "type": "TECHNOLOGY",
+      "description": "利用数据训练模型的技术。包含优化、采样、矩阵运算等核心计算任务。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 301,
+      "name": "核心计算任务",
+      "type": "CONCEPT",
+      "description": "机器学习中的关键计算任务集合。包括优化、采样和矩阵运算。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 302,
+      "name": "采样",
+      "type": "CONCEPT",
+      "description": "从分布中抽取样本的计算任务。是机器学习中的核心任务之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "矩阵运算",
+      "type": "CONCEPT",
+      "description": "线性代数中的矩阵计算。是机器学习中的核心任务之一。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 304,
+      "name": "机器学习技术",
+      "type": "TECHNOLOGY",
+      "description": "用于构建和优化机器学习模型的方法与技术。可用于量子系统的校准、纠错与算法设计。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 305,
+      "name": "校准",
+      "type": "CONCEPT",
+      "description": "对量子系统参数进行调校的过程。可借助机器学习技术。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 306,
+      "name": "纠错",
+      "type": "CONCEPT",
+      "description": "量子系统错误检测与更正的过程。可借助机器学习技术。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15"
+      ]
+    },
+    {
+      "id": 307,
+      "name": "算法设计",
+      "type": "CONCEPT",
+      "description": "构建并改进算法的过程。可借助机器学习技术用于量子系统。 为量子系统开发和设计计算算法的过程。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 308,
+      "name": "未来十年",
+      "type": "DATE",
+      "description": "未来的十年时间窗口。预计在该时期会出现具有量子优势的商业应用落地。 预计时间范围，指接下来的十年。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 309,
+      "name": "商业应用",
+      "type": "PRODUCT",
+      "description": "面向市场的应用产品或解决方案。预计将具备量子优势并在未来十年落地。 在产业或商业场景中落地使用的应用与解决方案。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_15",
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "量子系统校准",
+      "type": "TECHNOLOGY",
+      "description": "针对量子系统参数和操作进行校准的技术。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 311,
+      "name": "重大科学和工程挑战",
+      "type": "CONCEPT",
+      "description": "实现量子计算全部潜力需解决的关键难题。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 312,
+      "name": "物理学",
+      "type": "CONCEPT",
+      "description": "研究自然界基本规律的科学，为量子计算提供理论和实验基础。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 313,
+      "name": "计算机科学",
+      "type": "CONCEPT",
+      "description": "研究计算理论与系统的学科，为量子算法与软件提供支撑。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 314,
+      "name": "数学",
+      "type": "CONCEPT",
+      "description": "研究结构与逻辑的学科，为量子信息与算法提供形式化工具。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 315,
+      "name": "工程学",
+      "type": "CONCEPT",
+      "description": "研究工程设计与实现的学科，为量子硬件与系统集成提供支撑。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 316,
+      "name": "费曼",
+      "type": "PERSON",
+      "description": "物理学家，1982年提出关于模拟自然需量子系统的观点。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 317,
+      "name": "1982年",
+      "type": "DATE",
+      "description": "费曼提出相关预言的年份。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 318,
+      "name": "自然",
+      "type": "CONCEPT",
+      "description": "物理世界整体，费曼认为其本质上是量子的而非经典的。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 319,
+      "name": "量子神经网络理论",
+      "type": "TECHNOLOGY",
+      "description": "将量子计算与神经网络相结合的理论框架。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 320,
+      "name": "2019",
+      "type": "DATE",
+      "description": "张伟教授相关贡献的时间标注。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 321,
+      "name": "李明博士",
+      "type": "PERSON",
+      "description": "从事超导量子比特保真度优化的研究者。 2021年开展超导量子比特保真度优化研究的学者。聚焦提升超导量子比特操作与读出保真度。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "2021",
+      "type": "DATE",
+      "description": "李明博士相关贡献的时间标注。 年份标注：2021年。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 323,
+      "name": "超导量子比特保真度优化",
+      "type": "TECHNOLOGY",
+      "description": "提升超导量子比特操作和读出的保真度的技术。 针对超导量子比特门或读出过程的保真度提升方法与研究。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 324,
+      "name": "王芳研究员",
+      "type": "PERSON",
+      "description": "提出色码量子纠错方案的研究者。 色码量子纠错方案的提出者。长期从事量子纠错研究。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 325,
+      "name": "色码量子纠错方案",
+      "type": "TECHNOLOGY",
+      "description": "基于色码结构实现量子纠错的具体方案。 基于色码的量子误差纠正编码与容错方案。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16",
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 326,
+      "name": "量子计算全部潜力",
+      "type": "CONCEPT",
+      "description": "量子计算在广泛任务中的最终能力与价值。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 327,
+      "name": "量子计算与人工智能的结合",
+      "type": "CONCEPT",
+      "description": "量子计算与AI方法的融合应用。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 328,
+      "name": "量子优势商业应用落地",
+      "type": "EVENT",
+      "description": "第一批具有量子优势的商业应用实现落地。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_16"
+      ]
+    },
+    {
+      "id": 329,
+      "name": "量子药物模拟",
+      "type": "CONCEPT",
+      "description": "利用量子计算进行药物分子性质与相互作用的模拟与评估。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "硬件高效拟设",
+      "type": "TECHNOLOGY",
+      "description": "面向噪声中等规模量子设备的参数化量子线路模板与结构。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 331,
+      "name": "量子SVM医学应用",
+      "type": "CONCEPT",
+      "description": "将量子支持向量机用于医学数据分析与诊断的应用方向。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 332,
+      "name": "量子核\"无免费午餐\"定理",
+      "type": "CONCEPT",
+      "description": "关于量子核学习在不同任务上不存在统一优势的理论结论。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 333,
+      "name": "量子GAN金融应用",
+      "type": "CONCEPT",
+      "description": "使用量子生成对抗网络进行金融建模与数据生成的应用。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "量子药物筛选项目",
+      "type": "EVENT",
+      "description": "面向药物发现与筛选的量子计算研究项目。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 335,
+      "name": "量子金融算法实用性分析",
+      "type": "CONCEPT",
+      "description": "评估量子金融算法在现实问题中的可行性与收益。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 336,
+      "name": "量子交通优化系统",
+      "type": "PRODUCT",
+      "description": "用于交通调度与路径优化的量子计算系统。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 337,
+      "name": "量子退火优势",
+      "type": "CONCEPT",
+      "description": "量子退火在特定优化任务上可能优于经典方法的潜在优势。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 338,
+      "name": "量子化学模拟资源估算",
+      "type": "CONCEPT",
+      "description": "评估量子化学问题在量子计算上所需量子比特与门数等资源。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 339,
+      "name": "PennyLane量子机器学习库",
+      "type": "PRODUCT",
+      "description": "用于量子机器学习与自动微分的开源软件库。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "2022",
+      "type": "DATE",
+      "description": "年份标注：2022年。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    },
+    {
+      "id": 341,
+      "name": "2023",
+      "type": "DATE",
+      "description": "年份标注：2023年。",
+      "source_chunks": [
+        "doc_0_rag_kg_test_article.md.txt_chunk_17"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 1,
+      "type": "融合",
+      "description": "文本讨论了量子计算与人工智能两大技术革命的交汇与融合。",
+      "weight": 4.0
+    },
+    {
+      "source": 0,
+      "target": 312,
+      "type": "需要",
+      "description": "实现其潜力需要物理学领域的研究支持。",
+      "weight": 1.0
+    },
+    {
+      "source": 0,
+      "target": 313,
+      "type": "需要",
+      "description": "实现其潜力需要计算机科学领域的研究支持。",
+      "weight": 1.0
+    },
+    {
+      "source": 0,
+      "target": 314,
+      "type": "需要",
+      "description": "实现其潜力需要数学领域的研究支持。",
+      "weight": 1.0
+    },
+    {
+      "source": 0,
+      "target": 315,
+      "type": "需要",
+      "description": "实现其潜力需要工程学领域的研究支持。",
+      "weight": 1.0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "type": "属于",
+      "description": "深度学习技术是人工智能的重要组成部分。",
+      "weight": 1.0
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "type": "取得进展于",
+      "description": "深度学习技术在图像识别领域取得突破性进展。",
+      "weight": 1.0
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "type": "取得进展于",
+      "description": "深度学习技术在自然语言处理领域取得突破性进展。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "type": "使用",
+      "description": "量子计算机利用量子叠加现象进行计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "type": "使用",
+      "description": "量子计算机利用量子纠缠现象进行计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "type": "基于",
+      "description": "量子计算机基于量子力学现象工作。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 44,
+      "type": "包含",
+      "description": "混合架构的量子部分。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 45,
+      "type": "制备",
+      "description": "在VQE中制备试探波函数。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 46,
+      "type": "测量",
+      "description": "在VQE中测量哈密顿量的能量期望值。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 141,
+      "type": "使用",
+      "description": "项目使用量子计算机进行筛选。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 121,
+      "type": "模拟",
+      "description": "量子计算机可以直接模拟量子系统。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 116,
+      "type": "避免",
+      "description": "通过直接模拟量子系统，量子计算机可避免指数墙困境。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 200,
+      "type": "能够运行",
+      "description": "足够强大的量子计算机能够运行Shor算法。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 268,
+      "type": "影响",
+      "description": "量子计算机的高成本可能加剧数字鸿沟。",
+      "weight": 1.0
+    },
+    {
+      "source": 3,
+      "target": 276,
+      "type": "属于",
+      "description": "量子计算机属于量子技术领域。",
+      "weight": 1.0
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "type": "属于",
+      "description": "量子叠加属于量子力学现象。",
+      "weight": 1.0
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "type": "属于",
+      "description": "量子纠缠属于量子力学现象。",
+      "weight": 1.0
+    },
+    {
+      "source": 4,
+      "target": 234,
+      "type": "降低理解需求",
+      "description": "这些框架降低了对量子力学细节的理解需求。",
+      "weight": 1.0
+    },
+    {
+      "source": 7,
+      "target": 44,
+      "type": "包含",
+      "description": "混合架构的经典部分。",
+      "weight": 1.0
+    },
+    {
+      "source": 7,
+      "target": 47,
+      "type": "优化",
+      "description": "在VQE中优化变分参数。",
+      "weight": 1.0
+    },
+    {
+      "source": 7,
+      "target": 115,
+      "type": "处理",
+      "description": "在处理含有超过50个电子的分子时计算复杂度高。",
+      "weight": 1.0
+    },
+    {
+      "source": 7,
+      "target": 116,
+      "type": "面临",
+      "description": "处理复杂分子时面临指数墙问题。",
+      "weight": 1.0
+    },
+    {
+      "source": 7,
+      "target": 120,
+      "type": "处理",
+      "description": "处理含有超过50个电子的分子时遇到指数墙问题。",
+      "weight": 1.0
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "type": "发表",
+      "description": "张伟教授发表了开创性论文。",
+      "weight": 1.0
+    },
+    {
+      "source": 10,
+      "target": 319,
+      "type": "创建",
+      "description": "被描述为该理论的创始人。",
+      "weight": 1.0
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "type": "发生于",
+      "description": "该论文于2019年发表。",
+      "weight": 1.0
+    },
+    {
+      "source": 11,
+      "target": 70,
+      "type": "研究",
+      "description": "Havlíček等人在2019年进行相关研究。",
+      "weight": 1.0
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "type": "发表于",
+      "description": "该论文发表于《自然》杂志。",
+      "weight": 1.0
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "type": "提出",
+      "description": "该论文首次提出了“量子神经网络”的概念。",
+      "weight": 1.0
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "type": "使用",
+      "description": "量子神经网络使用量子态作为激活机制。",
+      "weight": 1.0
+    },
+    {
+      "source": 14,
+      "target": 17,
+      "type": "使用",
+      "description": "量子神经网络使用量子门操作以实现高效的梯度计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "type": "用作",
+      "description": "量子态被用作神经网络的激活函数。",
+      "weight": 1.0
+    },
+    {
+      "source": 15,
+      "target": 193,
+      "type": "导致",
+      "description": "导致量子态发生退相干。",
+      "weight": 1.0
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "type": "效率优于",
+      "description": "量子门操作在梯度计算方面被描述为比经典反向传播更高效。",
+      "weight": 1.0
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "type": "用于",
+      "description": "量子门操作用于实现梯度计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 17,
+      "target": 197,
+      "type": "限制",
+      "description": "该T₂时间意味着只能执行大约1000个量子门操作。",
+      "weight": 1.0
+    },
+    {
+      "source": 17,
+      "target": 199,
+      "type": "数量",
+      "description": "在T₂约100微秒下可执行的量子门操作数量。",
+      "weight": 1.0
+    },
+    {
+      "source": 21,
+      "target": 213,
+      "type": "需要",
+      "description": "每增加一个量子比特，就需要增加相应的控制线。",
+      "weight": 1.0
+    },
+    {
+      "source": 21,
+      "target": 214,
+      "type": "需要",
+      "description": "每增加一个量子比特，就需要增加相应的读取电路。",
+      "weight": 1.0
+    },
+    {
+      "source": 21,
+      "target": 215,
+      "type": "需要",
+      "description": "每增加一个量子比特，就需要增加相应的制冷系统。",
+      "weight": 1.0
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "type": "属于",
+      "description": "表面码是量子纠错编码的一种。",
+      "weight": 1.0
+    },
+    {
+      "source": 23,
+      "target": 28,
+      "type": "使用",
+      "description": "实验中使用了表面码。",
+      "weight": 1.0
+    },
+    {
+      "source": 23,
+      "target": 29,
+      "type": "由…构成",
+      "description": "实验中使用的表面码由物理量子比特构成（规模为1000个）。",
+      "weight": 1.0
+    },
+    {
+      "source": 23,
+      "target": 33,
+      "type": "指出缺陷",
+      "description": "指出表面码的主要缺陷是空间开销过大。",
+      "weight": 1.0
+    },
+    {
+      "source": 23,
+      "target": 41,
+      "type": "存在问题",
+      "description": "表面码存在空间开销过大的问题。",
+      "weight": 1.0
+    },
+    {
+      "source": 23,
+      "target": 222,
+      "type": "具有",
+      "description": "表面码具有约1000:1的逻辑对物理开销比。",
+      "weight": 1.0
+    },
+    {
+      "source": 24,
+      "target": 34,
+      "type": "属于",
+      "description": "色码方案是一类量子纠错编码。",
+      "weight": 1.0
+    },
+    {
+      "source": 25,
+      "target": 28,
+      "type": "验证",
+      "description": "实验结果验证了量子纠错的可行性。",
+      "weight": 1.0
+    },
+    {
+      "source": 25,
+      "target": 121,
+      "type": "属于",
+      "description": "量子系统的重要组成与保障机制。",
+      "weight": 1.0
+    },
+    {
+      "source": 25,
+      "target": 325,
+      "type": "属于",
+      "description": "该方案是量子纠错的一种具体实现。",
+      "weight": 1.0
+    },
+    {
+      "source": 26,
+      "target": 28,
+      "type": "由…进行",
+      "description": "该实验由Google开展。",
+      "weight": 1.0
+    },
+    {
+      "source": 26,
+      "target": 226,
+      "type": "开发",
+      "description": "Google开发了Cirq。",
+      "weight": 1.0
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "type": "发生于",
+      "description": "实验发生在2023年。",
+      "weight": 1.0
+    },
+    {
+      "source": 27,
+      "target": 156,
+      "type": "日期",
+      "description": "论文年份为2023年。",
+      "weight": 1.0
+    },
+    {
+      "source": 28,
+      "target": 30,
+      "type": "实现",
+      "description": "实验成功实现了10个逻辑量子比特。",
+      "weight": 1.0
+    },
+    {
+      "source": 28,
+      "target": 31,
+      "type": "降低",
+      "description": "实验将逻辑错误率降低至物理错误率的千分之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 29,
+      "target": 222,
+      "type": "影响",
+      "description": "在该开销比下，约1000个逻辑量子比特对应约100万个物理量子比特。",
+      "weight": 1.0
+    },
+    {
+      "source": 29,
+      "target": 223,
+      "type": "实现时间",
+      "description": "以目前技术进展速度，达到百万级物理量子比特的目标可能在2030年代中期实现。",
+      "weight": 1.0
+    },
+    {
+      "source": 30,
+      "target": 163,
+      "type": "需要至少",
+      "description": "该规模问题需要至少200个逻辑量子比特。",
+      "weight": 2.0
+    },
+    {
+      "source": 30,
+      "target": 221,
+      "type": "需要",
+      "description": "运行有实用价值的量子化学模拟需要至少约1000个逻辑量子比特（据张华博士估算）。",
+      "weight": 1.0
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "type": "相对于",
+      "description": "逻辑错误率降至物理错误率的千分之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "type": "提出",
+      "description": "提出色码方案作为改进。",
+      "weight": 1.0
+    },
+    {
+      "source": 34,
+      "target": 41,
+      "type": "降低",
+      "description": "色码方案可将空间开销降低约30%。",
+      "weight": 1.0
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "type": "需要",
+      "description": "该方案需要更复杂的解码算法。",
+      "weight": 1.0
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "type": "属于",
+      "description": "VQE在文中归入量子机器学习算法章节。",
+      "weight": 1.0
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "type": "由…提出",
+      "description": "VQE算法由Peruzzo等人提出（文中未给出年份）。",
+      "weight": 2.0
+    },
+    {
+      "source": 37,
+      "target": 42,
+      "type": "提出于",
+      "description": "VQE算法发表于2014年。",
+      "weight": 1.0
+    },
+    {
+      "source": 37,
+      "target": 43,
+      "type": "在…中被认为实用",
+      "description": "被称为NISQ时代最实用的量子算法之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 37,
+      "target": 44,
+      "type": "采用",
+      "description": "VQE采用量子-经典混合的计算架构。",
+      "weight": 1.0
+    },
+    {
+      "source": 37,
+      "target": 49,
+      "type": "应用",
+      "description": "将VQE应用于药物分子模拟。",
+      "weight": 1.0
+    },
+    {
+      "source": 37,
+      "target": 60,
+      "type": "用于",
+      "description": "可作为VQE中的拟设函数使用。",
+      "weight": 1.0
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "type": "随…增加",
+      "description": "量子误差会随着量子门数量呈指数级累积。",
+      "weight": 1.0
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "type": "领导",
+      "description": "研究团队由陈杰教授领导。",
+      "weight": 1.0
+    },
+    {
+      "source": 48,
+      "target": 329,
+      "type": "应用",
+      "description": "从事量子药物模拟的应用研究。",
+      "weight": 1.0
+    },
+    {
+      "source": 48,
+      "target": 340,
+      "type": "时间",
+      "description": "相关工作的时间为2022年。",
+      "weight": 1.0
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "type": "从事",
+      "description": "团队开展药物分子模拟研究。",
+      "weight": 1.0
+    },
+    {
+      "source": 49,
+      "target": 61,
+      "type": "进行",
+      "description": "在2022年完成了该计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 51,
+      "target": 61,
+      "type": "研究对象",
+      "description": "计算对象为青蒿素分子。",
+      "weight": 1.0
+    },
+    {
+      "source": 52,
+      "target": 61,
+      "type": "计算属性",
+      "description": "计算青蒿素分子的基态能量。",
+      "weight": 1.0
+    },
+    {
+      "source": 53,
+      "target": 61,
+      "type": "误差",
+      "description": "计算误差约为0.1 eV。",
+      "weight": 1.0
+    },
+    {
+      "source": 53,
+      "target": 55,
+      "type": "足以预测",
+      "description": "该精度足以用于预测化学反应路径。",
+      "weight": 1.0
+    },
+    {
+      "source": 54,
+      "target": 61,
+      "type": "发生于",
+      "description": "该计算发生在2022年。",
+      "weight": 1.0
+    },
+    {
+      "source": 54,
+      "target": 141,
+      "type": "发生于",
+      "description": "项目在2022年取得关键识别结果。",
+      "weight": 1.0
+    },
+    {
+      "source": 56,
+      "target": 61,
+      "type": "促进",
+      "description": "为量子计算在制药领域的应用开辟了道路。",
+      "weight": 1.0
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "type": "影响",
+      "description": "VQE的收敛速度强烈依赖于拟设函数的选择。",
+      "weight": 1.0
+    },
+    {
+      "source": 58,
+      "target": 60,
+      "type": "属于",
+      "description": "硬件高效拟设是一类拟设函数。",
+      "weight": 1.0
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "type": "提出",
+      "description": "提出了硬件高效拟设方法。",
+      "weight": 1.0
+    },
+    {
+      "source": 59,
+      "target": 62,
+      "type": "提出",
+      "description": "刘洋博士提出了硬件高效拟设。",
+      "weight": 1.0
+    },
+    {
+      "source": 59,
+      "target": 330,
+      "type": "开发",
+      "description": "为该技术的开发者。",
+      "weight": 1.0
+    },
+    {
+      "source": 62,
+      "target": 77,
+      "type": "影响",
+      "description": "硬件高效拟设具有量子门深度较浅的特性。",
+      "weight": 1.0
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "type": "适用性",
+      "description": "对强关联系统的表达能力有限。",
+      "weight": 1.0
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "type": "需求",
+      "description": "实现UCC通常需要更深的量子线路。",
+      "weight": 1.0
+    },
+    {
+      "source": 64,
+      "target": 66,
+      "type": "描述",
+      "description": "UCC能更准确地描述电子关联效应。",
+      "weight": 1.0
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "type": "使用",
+      "description": "QSVM利用量子核技巧进行分类。",
+      "weight": 1.0
+    },
+    {
+      "source": 67,
+      "target": 69,
+      "type": "在",
+      "description": "QSVM在高维希尔伯特空间中进行分类。",
+      "weight": 1.0
+    },
+    {
+      "source": 67,
+      "target": 74,
+      "type": "应用",
+      "description": "将QSVM应用于医学图像分类。",
+      "weight": 1.0
+    },
+    {
+      "source": 67,
+      "target": 75,
+      "type": "应用",
+      "description": "用于医学图像分类任务。",
+      "weight": 1.0
+    },
+    {
+      "source": 67,
+      "target": 76,
+      "type": "表现",
+      "description": "在该数据集上的分类准确率达到94.3%。",
+      "weight": 1.0
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "type": "发现",
+      "description": "发现某些数据集在量子特征空间中线性可分而在经典特征空间中不可分。",
+      "weight": 1.0
+    },
+    {
+      "source": 71,
+      "target": 72,
+      "type": "性质",
+      "description": "在量子特征空间中线性可分。",
+      "weight": 1.0
+    },
+    {
+      "source": 71,
+      "target": 73,
+      "type": "性质",
+      "description": "在经典特征空间中不可分。",
+      "weight": 1.0
+    },
+    {
+      "source": 74,
+      "target": 76,
+      "type": "使用",
+      "description": "使用包含500名患者的乳腺癌MRI数据集。",
+      "weight": 1.0
+    },
+    {
+      "source": 74,
+      "target": 331,
+      "type": "应用",
+      "description": "推进量子SVM在医学领域的应用。",
+      "weight": 1.0
+    },
+    {
+      "source": 76,
+      "target": 78,
+      "type": "评估于",
+      "description": "在包含500名患者的乳腺癌MRI数据集上分类准确率达到94.3%。",
+      "weight": 1.0
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "type": "优于",
+      "description": "分类准确率比经典SVM高出2.1个百分点。",
+      "weight": 2.0
+    },
+    {
+      "source": 78,
+      "target": 80,
+      "type": "在场景中有价值",
+      "description": "低样本需求在医学数据稀缺的场景下尤为有价值。",
+      "weight": 1.0
+    },
+    {
+      "source": 78,
+      "target": 81,
+      "type": "质疑",
+      "description": "对QSVM的量子优势提出质疑。",
+      "weight": 1.0
+    },
+    {
+      "source": 81,
+      "target": 332,
+      "type": "证明",
+      "description": "证明该定理。",
+      "weight": 1.0
+    },
+    {
+      "source": 82,
+      "target": 85,
+      "type": "提醒",
+      "description": "提醒量子优势只存在于特定的问题结构中。",
+      "weight": 1.0
+    },
+    {
+      "source": 82,
+      "target": 95,
+      "type": "存在于",
+      "description": "量子优势仅在特定的问题结构中可能成立。",
+      "weight": 1.0
+    },
+    {
+      "source": 82,
+      "target": 179,
+      "type": "未展现",
+      "description": "根据批评者的观点，未展现真正的量子优势。",
+      "weight": 2.0
+    },
+    {
+      "source": 82,
+      "target": 192,
+      "type": "围绕",
+      "description": "围绕量子优势是否存在的讨论仍在继续。",
+      "weight": 1.0
+    },
+    {
+      "source": 82,
+      "target": 309,
+      "type": "具备",
+      "description": "预计将具备真正的量子优势。",
+      "weight": 2.0
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "type": "可被模拟",
+      "description": "对于可用多项式数量的经典门模拟的量子核。",
+      "weight": 1.0
+    },
+    {
+      "source": 83,
+      "target": 86,
+      "type": "不具备",
+      "description": "在可被多项式个经典门模拟的条件下，不存在指数级加速。",
+      "weight": 1.0
+    },
+    {
+      "source": 87,
+      "target": 88,
+      "type": "扩展自",
+      "description": "将GAN框架扩展到量子域。",
+      "weight": 1.0
+    },
+    {
+      "source": 87,
+      "target": 93,
+      "type": "扩展到",
+      "description": "QGAN将生成对抗网络的思想扩展到量子领域。",
+      "weight": 1.0
+    },
+    {
+      "source": 88,
+      "target": 93,
+      "type": "应用于",
+      "description": "GAN框架扩展到量子域。",
+      "weight": 1.0
+    },
+    {
+      "source": 88,
+      "target": 96,
+      "type": "扩展自",
+      "description": "QGAN是将GAN框架扩展到量子计算的形式。",
+      "weight": 1.0
+    },
+    {
+      "source": 89,
+      "target": 90,
+      "type": "使用",
+      "description": "生成器使用参数化量子线路来生成量子态。",
+      "weight": 1.0
+    },
+    {
+      "source": 89,
+      "target": 97,
+      "type": "使用",
+      "description": "量子生成器使用参数化量子线路生成量子态。",
+      "weight": 1.0
+    },
+    {
+      "source": 90,
+      "target": 94,
+      "type": "生成",
+      "description": "生成器产生生成态（量子态）。",
+      "weight": 1.0
+    },
+    {
+      "source": 91,
+      "target": 94,
+      "type": "区分",
+      "description": "判别器试图区分生成态。",
+      "weight": 1.0
+    },
+    {
+      "source": 91,
+      "target": 92,
+      "type": "区分",
+      "description": "判别器试图区分真实数据态。",
+      "weight": 1.0
+    },
+    {
+      "source": 91,
+      "target": 96,
+      "type": "包含",
+      "description": "QGAN由量子生成器与判别器组成。",
+      "weight": 1.0
+    },
+    {
+      "source": 91,
+      "target": 98,
+      "type": "区分",
+      "description": "判别器试图区分生成态。",
+      "weight": 1.0
+    },
+    {
+      "source": 93,
+      "target": 96,
+      "type": "属于",
+      "description": "QGAN作为量子计算领域中的生成对抗方法。",
+      "weight": 1.0
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "type": "包含",
+      "description": "QGAN由量子生成器与判别器组成。",
+      "weight": 1.0
+    },
+    {
+      "source": 96,
+      "target": 99,
+      "type": "提出",
+      "description": "在2018年首次提出QGAN概念。",
+      "weight": 1.0
+    },
+    {
+      "source": 96,
+      "target": 100,
+      "type": "提出",
+      "description": "在2018年首次提出QGAN概念。",
+      "weight": 1.0
+    },
+    {
+      "source": 96,
+      "target": 101,
+      "type": "提出于",
+      "description": "QGAN概念首次提出的时间。",
+      "weight": 1.0
+    },
+    {
+      "source": 96,
+      "target": 103,
+      "type": "应用",
+      "description": "将QGAN应用于金融时间序列建模。",
+      "weight": 1.0
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "type": "生成",
+      "description": "量子生成器生成量子态。",
+      "weight": 1.0
+    },
+    {
+      "source": 97,
+      "target": 106,
+      "type": "捕捉",
+      "description": "量子生成器能够捕捉股票价格的长程关联。",
+      "weight": 1.0
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "type": "隶属于",
+      "description": "实验室隶属于吴涛教授。",
+      "weight": 1.0
+    },
+    {
+      "source": 102,
+      "target": 333,
+      "type": "应用",
+      "description": "推动量子GAN在金融中的应用。",
+      "weight": 1.0
+    },
+    {
+      "source": 103,
+      "target": 104,
+      "type": "应用于",
+      "description": "开展金融时间序列建模研究。",
+      "weight": 1.0
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "type": "发生于",
+      "description": "股票价格时间序列具有长程关联。",
+      "weight": 1.0
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "type": "难以捕捉",
+      "description": "经典GAN难以捕捉股票价格的长程关联。",
+      "weight": 1.0
+    },
+    {
+      "source": 107,
+      "target": 109,
+      "type": "与真实数据偏差",
+      "description": "经典GAN生成的价格序列在Hurst指数上的偏差为0.12。",
+      "weight": 1.0
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "type": "与真实数据偏差",
+      "description": "量子模型生成的价格序列在Hurst指数上与真实数据的偏差为0.03。",
+      "weight": 1.0
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "type": "用于衡量",
+      "description": "Hurst指数用于衡量价格序列的长程相关性。",
+      "weight": 1.0
+    },
+    {
+      "source": 111,
+      "target": 112,
+      "type": "应用于",
+      "description": "量子模拟被用于药物研发场景。",
+      "weight": 1.0
+    },
+    {
+      "source": 113,
+      "target": 114,
+      "type": "核心挑战",
+      "description": "新药研发的核心挑战是计算分子间的相互作用能。",
+      "weight": 1.0
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "type": "领导",
+      "description": "罗伯特·史密斯博士领导该团队。",
+      "weight": 1.0
+    },
+    {
+      "source": 117,
+      "target": 334,
+      "type": "负责",
+      "description": "担任项目负责人。",
+      "weight": 1.0
+    },
+    {
+      "source": 118,
+      "target": 119,
+      "type": "合作",
+      "description": "团队与辉瑞制药公司合作开展筛选工作。",
+      "weight": 1.0
+    },
+    {
+      "source": 118,
+      "target": 141,
+      "type": "执行",
+      "description": "团队执行使用量子计算机进行抑制剂筛选的项目。",
+      "weight": 1.0
+    },
+    {
+      "source": 118,
+      "target": 124,
+      "type": "开发",
+      "description": "团队开发了该混合工作流，作为项目的关键突破。",
+      "weight": 1.0
+    },
+    {
+      "source": 119,
+      "target": 141,
+      "type": "合作",
+      "description": "辉瑞参与该筛选项目。",
+      "weight": 1.0
+    },
+    {
+      "source": 121,
+      "target": 193,
+      "type": "受影响",
+      "description": "量子系统极易受到环境噪声的干扰。",
+      "weight": 1.0
+    },
+    {
+      "source": 121,
+      "target": 194,
+      "type": "面临",
+      "description": "量子系统面临退相干问题的技术挑战。",
+      "weight": 1.0
+    },
+    {
+      "source": 121,
+      "target": 304,
+      "type": "帮助",
+      "description": "可帮助量子系统的校准、纠错与算法设计。",
+      "weight": 1.0
+    },
+    {
+      "source": 121,
+      "target": 310,
+      "type": "属于",
+      "description": "量子系统的关键工作之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 121,
+      "target": 307,
+      "type": "属于",
+      "description": "为量子系统开发可执行算法的设计活动。",
+      "weight": 1.0
+    },
+    {
+      "source": 122,
+      "target": 123,
+      "type": "靶向",
+      "description": "抑制剂针对新冠病毒主蛋白酶。",
+      "weight": 1.0
+    },
+    {
+      "source": 123,
+      "target": 141,
+      "type": "筛选对象",
+      "description": "项目筛选新冠病毒主蛋白酶抑制剂。",
+      "weight": 1.0
+    },
+    {
+      "source": 124,
+      "target": 141,
+      "type": "关键突破",
+      "description": "项目的关键突破是该工作流。",
+      "weight": 1.0
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "type": "包含",
+      "description": "工作流包含经典分子动力学粗筛步骤。",
+      "weight": 1.0
+    },
+    {
+      "source": 124,
+      "target": 126,
+      "type": "包含",
+      "description": "工作流包含VQE算法用于结合能计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 124,
+      "target": 127,
+      "type": "包含",
+      "description": "工作流包含机器学习模型用于药代性质预测。",
+      "weight": 1.0
+    },
+    {
+      "source": 125,
+      "target": 141,
+      "type": "用于",
+      "description": "用于项目的第一步粗筛。",
+      "weight": 1.0
+    },
+    {
+      "source": 125,
+      "target": 135,
+      "type": "筛选至",
+      "description": "将候选分子数量降至1000个。",
+      "weight": 1.0
+    },
+    {
+      "source": 126,
+      "target": 141,
+      "type": "用于",
+      "description": "用于精确计算结合能。",
+      "weight": 1.0
+    },
+    {
+      "source": 126,
+      "target": 135,
+      "type": "计算",
+      "description": "对1000个分子与靶蛋白的结合能进行计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 126,
+      "target": 128,
+      "type": "计算",
+      "description": "精确计算分子与靶蛋白的结合能。",
+      "weight": 1.0
+    },
+    {
+      "source": 126,
+      "target": 129,
+      "type": "涉及目标",
+      "description": "计算这些分子与靶蛋白的结合能。",
+      "weight": 1.0
+    },
+    {
+      "source": 127,
+      "target": 141,
+      "type": "用于",
+      "description": "用于最终预测药代动力学性质。",
+      "weight": 1.0
+    },
+    {
+      "source": 127,
+      "target": 130,
+      "type": "预测",
+      "description": "预测候选分子的药代动力学性质。",
+      "weight": 1.0
+    },
+    {
+      "source": 128,
+      "target": 142,
+      "type": "涉及",
+      "description": "结合能计算针对这1000个分子。",
+      "weight": 1.0
+    },
+    {
+      "source": 128,
+      "target": 129,
+      "type": "涉及",
+      "description": "结合能计算涉及靶蛋白。",
+      "weight": 1.0
+    },
+    {
+      "source": 131,
+      "target": 141,
+      "type": "识别出",
+      "description": "从10万个候选分子中识别出23个高活性化合物。",
+      "weight": 1.0
+    },
+    {
+      "source": 131,
+      "target": 134,
+      "type": "来源于",
+      "description": "这23个化合物筛选自最初的候选库。",
+      "weight": 1.0
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "type": "属于",
+      "description": "5个化合物是所识别的23个高活性化合物的一部分。",
+      "weight": 1.0
+    },
+    {
+      "source": 132,
+      "target": 133,
+      "type": "进入",
+      "description": "其中5个化合物进入临床前研究阶段。",
+      "weight": 1.0
+    },
+    {
+      "source": 134,
+      "target": 141,
+      "type": "输入规模",
+      "description": "项目最初候选库包含约10万个分子。",
+      "weight": 1.0
+    },
+    {
+      "source": 135,
+      "target": 141,
+      "type": "粗筛后规模",
+      "description": "粗筛后保留约1000个分子。",
+      "weight": 1.0
+    },
+    {
+      "source": 136,
+      "target": 141,
+      "type": "完成同任务耗时",
+      "description": "传统方法完成相同任务需要6个月。",
+      "weight": 1.0
+    },
+    {
+      "source": 136,
+      "target": 139,
+      "type": "耗时",
+      "description": "传统方法耗时6个月。",
+      "weight": 1.0
+    },
+    {
+      "source": 137,
+      "target": 141,
+      "type": "耗时",
+      "description": "量子方法完成该任务用了3周。",
+      "weight": 1.0
+    },
+    {
+      "source": 137,
+      "target": 138,
+      "type": "耗时",
+      "description": "量子方法耗时3周。",
+      "weight": 1.0
+    },
+    {
+      "source": 143,
+      "target": 146,
+      "type": "属于",
+      "description": "该算法属于金融风险管理中的量子算法。",
+      "weight": 1.0
+    },
+    {
+      "source": 144,
+      "target": 145,
+      "type": "属于",
+      "description": "该研究团队隶属于摩根大通银行。",
+      "weight": 1.0
+    },
+    {
+      "source": 145,
+      "target": 146,
+      "type": "开发",
+      "description": "开发用于期权定价的量子蒙特卡洛算法。",
+      "weight": 1.0
+    },
+    {
+      "source": 146,
+      "target": 147,
+      "type": "用于",
+      "description": "该算法用于期权定价。",
+      "weight": 1.0
+    },
+    {
+      "source": 146,
+      "target": 148,
+      "type": "利用",
+      "description": "算法利用量子振幅估计以提升采样效率。",
+      "weight": 1.0
+    },
+    {
+      "source": 146,
+      "target": 150,
+      "type": "降低",
+      "description": "将样本复杂度从O(ε⁻²)降低至O(ε⁻¹)。",
+      "weight": 1.0
+    },
+    {
+      "source": 146,
+      "target": 155,
+      "type": "分析",
+      "description": "论文详细分析该算法的实用性。",
+      "weight": 1.0
+    },
+    {
+      "source": 149,
+      "target": 150,
+      "type": "属于",
+      "description": "指计算衍生品价格所需的样本复杂度。",
+      "weight": 1.0
+    },
+    {
+      "source": 150,
+      "target": 151,
+      "type": "表示",
+      "description": "原始计算的样本复杂度量级。",
+      "weight": 1.0
+    },
+    {
+      "source": 150,
+      "target": 152,
+      "type": "表示",
+      "description": "量子算法实现后的样本复杂度量级。",
+      "weight": 1.0
+    },
+    {
+      "source": 153,
+      "target": 154,
+      "type": "表示",
+      "description": "ε表示目标精度参数。",
+      "weight": 1.0
+    },
+    {
+      "source": 155,
+      "target": 156,
+      "type": "撰写",
+      "description": "在2023年的论文中进行研究与分析。",
+      "weight": 1.0
+    },
+    {
+      "source": 155,
+      "target": 335,
+      "type": "分析",
+      "description": "开展量子金融算法实用性的分析研究。",
+      "weight": 1.0
+    },
+    {
+      "source": 155,
+      "target": 341,
+      "type": "时间",
+      "description": "相关工作的时间为2023年。",
+      "weight": 1.0
+    },
+    {
+      "source": 157,
+      "target": 159,
+      "type": "优势条件",
+      "description": "当需要评估的金融情景数量超过10⁶时量子算法体现优势。",
+      "weight": 1.0
+    },
+    {
+      "source": 157,
+      "target": 158,
+      "type": "数量超过",
+      "description": "评估的场景数量超过一百万。",
+      "weight": 1.0
+    },
+    {
+      "source": 159,
+      "target": 161,
+      "type": "优于",
+      "description": "对小规模投资组合的评估效率优于量子算法。",
+      "weight": 1.0
+    },
+    {
+      "source": 159,
+      "target": 162,
+      "type": "影响",
+      "description": "量子算法对量子比特的需求随问题规模线性增长。",
+      "weight": 1.0
+    },
+    {
+      "source": 159,
+      "target": 300,
+      "type": "加速",
+      "description": "量子算法可加速机器学习中的核心计算任务。",
+      "weight": 1.0
+    },
+    {
+      "source": 159,
+      "target": 241,
+      "type": "加速",
+      "description": "可加速优化任务。",
+      "weight": 1.0
+    },
+    {
+      "source": 159,
+      "target": 302,
+      "type": "加速",
+      "description": "可加速采样任务。",
+      "weight": 1.0
+    },
+    {
+      "source": 159,
+      "target": 303,
+      "type": "加速",
+      "description": "可加速矩阵运算任务。",
+      "weight": 1.0
+    },
+    {
+      "source": 160,
+      "target": 161,
+      "type": "更高效于",
+      "description": "在小规模投资组合下经典方法更高效。",
+      "weight": 1.0
+    },
+    {
+      "source": 162,
+      "target": 164,
+      "type": "线性增长",
+      "description": "量子比特需求随问题规模线性增长。",
+      "weight": 1.0
+    },
+    {
+      "source": 165,
+      "target": 166,
+      "type": "属于",
+      "description": "交通流量优化属于交通网络优化领域。",
+      "weight": 1.0
+    },
+    {
+      "source": 166,
+      "target": 167,
+      "type": "属于",
+      "description": "交通流量优化是典型的组合优化问题。",
+      "weight": 1.0
+    },
+    {
+      "source": 168,
+      "target": 169,
+      "type": "合作",
+      "description": "双方合作使用量子退火算法优化里斯本市出租车路径规划。",
+      "weight": 1.0
+    },
+    {
+      "source": 168,
+      "target": 173,
+      "type": "参与",
+      "description": "参与该项目的实施。",
+      "weight": 1.0
+    },
+    {
+      "source": 169,
+      "target": 173,
+      "type": "参与",
+      "description": "参与该项目并提供量子退火技术。",
+      "weight": 1.0
+    },
+    {
+      "source": 169,
+      "target": 179,
+      "type": "提供",
+      "description": "提供量子退火硬件支持。",
+      "weight": 1.0
+    },
+    {
+      "source": 170,
+      "target": 173,
+      "type": "使用",
+      "description": "项目使用量子退火算法进行优化。",
+      "weight": 1.0
+    },
+    {
+      "source": 171,
+      "target": 172,
+      "type": "位于",
+      "description": "优化对象位于里斯本市。",
+      "weight": 1.0
+    },
+    {
+      "source": 172,
+      "target": 173,
+      "type": "优化",
+      "description": "优化里斯本市的出租车路径规划。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 174,
+      "type": "涉及",
+      "description": "系统需为418辆出租车分配请求。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 175,
+      "type": "分配",
+      "description": "为418辆出租车分配实时乘客请求。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 176,
+      "type": "目标",
+      "description": "优化目标之一是最小化总行驶距离。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 177,
+      "type": "目标",
+      "description": "优化目标之一是最小化乘客等待时间。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 178,
+      "type": "负责",
+      "description": "负责该项目的技术实施。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 186,
+      "type": "响应",
+      "description": "系统可在5秒内对交通状况变化做出响应。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 185,
+      "type": "响应时间",
+      "description": "对交通状况变化的响应时间为5秒。",
+      "weight": 1.0
+    },
+    {
+      "source": 173,
+      "target": 187,
+      "type": "影响",
+      "description": "显著提升了用户体验。",
+      "weight": 1.0
+    },
+    {
+      "source": 178,
+      "target": 336,
+      "type": "实施",
+      "description": "负责系统的实施与落地。",
+      "weight": 1.0
+    },
+    {
+      "source": 179,
+      "target": 180,
+      "type": "处理",
+      "description": "在包含10,000个变量的优化问题上进行求解。",
+      "weight": 1.0
+    },
+    {
+      "source": 179,
+      "target": 183,
+      "type": "求解时间",
+      "description": "在上述优化问题上的求解时间为1.2秒。",
+      "weight": 1.0
+    },
+    {
+      "source": 179,
+      "target": 182,
+      "type": "比较性能",
+      "description": "在同一优化问题上，量子退火机求解更快。",
+      "weight": 1.0
+    },
+    {
+      "source": 179,
+      "target": 188,
+      "type": "批评",
+      "description": "认为该量子退火机并未展现真正的量子优势。",
+      "weight": 1.0
+    },
+    {
+      "source": 179,
+      "target": 191,
+      "type": "性能比较",
+      "description": "在结构化问题上达到相似甚至更好的性能。",
+      "weight": 1.0
+    },
+    {
+      "source": 180,
+      "target": 181,
+      "type": "变量数量",
+      "description": "该优化问题包含10,000个变量。",
+      "weight": 1.0
+    },
+    {
+      "source": 182,
+      "target": 184,
+      "type": "求解时间",
+      "description": "在同一优化问题上的求解时间为45秒。",
+      "weight": 1.0
+    },
+    {
+      "source": 188,
+      "target": 337,
+      "type": "质疑",
+      "description": "对量子退火优势提出质疑。",
+      "weight": 1.0
+    },
+    {
+      "source": 189,
+      "target": 190,
+      "type": "测试于",
+      "description": "评估是在结构化问题上进行的。",
+      "weight": 1.0
+    },
+    {
+      "source": 195,
+      "target": 196,
+      "type": "拥有",
+      "description": "IBM的超导量子比特具有特定的T₂时间参数。",
+      "weight": 1.0
+    },
+    {
+      "source": 195,
+      "target": 225,
+      "type": "开发",
+      "description": "IBM开发了Qiskit。",
+      "weight": 1.0
+    },
+    {
+      "source": 196,
+      "target": 197,
+      "type": "具有",
+      "description": "其T₂时间约为100微秒。",
+      "weight": 1.0
+    },
+    {
+      "source": 196,
+      "target": 323,
+      "type": "作用于",
+      "description": "优化对象为超导量子比特。",
+      "weight": 1.0
+    },
+    {
+      "source": 197,
+      "target": 198,
+      "type": "数值",
+      "description": "IBM超导量子比特的T₂时间为约100微秒。",
+      "weight": 1.0
+    },
+    {
+      "source": 197,
+      "target": 205,
+      "type": "延长",
+      "description": "通过该技术将T₂时间延长。",
+      "weight": 1.0
+    },
+    {
+      "source": 197,
+      "target": 208,
+      "type": "数值",
+      "description": "应用动态解耦技术后，T₂时间延长至约350微秒。",
+      "weight": 2.0
+    },
+    {
+      "source": 197,
+      "target": 206,
+      "type": "属于",
+      "description": "T₂时间是相干时间的一种度量。",
+      "weight": 1.0
+    },
+    {
+      "source": 197,
+      "target": 207,
+      "type": "影响",
+      "description": "通过周期性施加脉冲序列，将T₂时间延长至约350微秒。",
+      "weight": 1.0
+    },
+    {
+      "source": 200,
+      "target": 201,
+      "type": "应用于",
+      "description": "用于分解2048位RSA整数。",
+      "weight": 1.0
+    },
+    {
+      "source": 200,
+      "target": 202,
+      "type": "需求",
+      "description": "运行该算法需要大约10⁹个量子门。",
+      "weight": 1.0
+    },
+    {
+      "source": 200,
+      "target": 251,
+      "type": "破解",
+      "description": "Shor算法能够破解RSA。",
+      "weight": 1.0
+    },
+    {
+      "source": 200,
+      "target": 252,
+      "type": "破解",
+      "description": "Shor算法能够破解椭圆曲线加密体系。",
+      "weight": 1.0
+    },
+    {
+      "source": 203,
+      "target": 204,
+      "type": "领导者",
+      "description": "该团队由孙婷博士领导。",
+      "weight": 1.0
+    },
+    {
+      "source": 203,
+      "target": 205,
+      "type": "开发",
+      "description": "为该技术的开发者。",
+      "weight": 1.0
+    },
+    {
+      "source": 204,
+      "target": 205,
+      "type": "提出",
+      "description": "提出用于延长相干时间的动态解耦技术。",
+      "weight": 1.0
+    },
+    {
+      "source": 205,
+      "target": 207,
+      "type": "使用",
+      "description": "通过周期性施加特定的脉冲序列实现。",
+      "weight": 1.0
+    },
+    {
+      "source": 207,
+      "target": 209,
+      "type": "增加",
+      "description": "该方案的代价是增加量子线路深度。",
+      "weight": 1.0
+    },
+    {
+      "source": 209,
+      "target": 210,
+      "type": "影响",
+      "description": "线路深度增加可能引入额外的门误差。",
+      "weight": 1.0
+    },
+    {
+      "source": 211,
+      "target": 212,
+      "type": "面临",
+      "description": "构建大规模量子计算机面临严峻的工程挑战。",
+      "weight": 1.0
+    },
+    {
+      "source": 216,
+      "target": 217,
+      "type": "研发",
+      "description": "微软正在研发拓扑量子比特。",
+      "weight": 1.0
+    },
+    {
+      "source": 217,
+      "target": 218,
+      "type": "具有",
+      "description": "拓扑量子比特理论上具有天然抗噪声特性。",
+      "weight": 1.0
+    },
+    {
+      "source": 218,
+      "target": 219,
+      "type": "降低",
+      "description": "该特性可以大幅降低量子纠错开销。",
+      "weight": 1.0
+    },
+    {
+      "source": 220,
+      "target": 221,
+      "type": "估算",
+      "description": "估算其达到实用价值所需资源为至少1000个逻辑量子比特。",
+      "weight": 1.0
+    },
+    {
+      "source": 220,
+      "target": 338,
+      "type": "估算",
+      "description": "从事资源估算相关工作。",
+      "weight": 1.0
+    },
+    {
+      "source": 224,
+      "target": 234,
+      "type": "包含",
+      "description": "量子软件生态包含量子编程框架等内容。",
+      "weight": 1.0
+    },
+    {
+      "source": 225,
+      "target": 234,
+      "type": "属于",
+      "description": "Qiskit是主流量子编程框架之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 226,
+      "target": 234,
+      "type": "属于",
+      "description": "Cirq是主流量子编程框架之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 227,
+      "target": 228,
+      "type": "开发",
+      "description": "Microsoft开发了Q#。",
+      "weight": 1.0
+    },
+    {
+      "source": 228,
+      "target": 234,
+      "type": "属于",
+      "description": "Q#是主流量子编程框架之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 229,
+      "target": 230,
+      "type": "领导开发",
+      "description": "周敏教授领导开发了PennyLane。",
+      "weight": 1.0
+    },
+    {
+      "source": 229,
+      "target": 339,
+      "type": "创建",
+      "description": "该软件库的创始人。",
+      "weight": 1.0
+    },
+    {
+      "source": 230,
+      "target": 238,
+      "type": "是",
+      "description": "PennyLane是一个量子机器学习库。",
+      "weight": 1.0
+    },
+    {
+      "source": 230,
+      "target": 231,
+      "type": "集成",
+      "description": "PennyLane与PyTorch无缝集成。",
+      "weight": 1.0
+    },
+    {
+      "source": 230,
+      "target": 232,
+      "type": "集成",
+      "description": "PennyLane与TensorFlow无缝集成。",
+      "weight": 1.0
+    },
+    {
+      "source": 230,
+      "target": 239,
+      "type": "支持构建",
+      "description": "PennyLane支持构建量子-经典混合模型。",
+      "weight": 1.0
+    },
+    {
+      "source": 230,
+      "target": 240,
+      "type": "自动处理",
+      "description": "PennyLane自动处理量子梯度计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 230,
+      "target": 241,
+      "type": "自动处理",
+      "description": "PennyLane自动处理模型优化过程。",
+      "weight": 1.0
+    },
+    {
+      "source": 230,
+      "target": 233,
+      "type": "获得星标于",
+      "description": "PennyLane项目在GitHub上获得了超过15,000个星标。",
+      "weight": 1.0
+    },
+    {
+      "source": 233,
+      "target": 246,
+      "type": "托管于",
+      "description": "该项目在GitHub上获得超过15,000星标。",
+      "weight": 1.0
+    },
+    {
+      "source": 234,
+      "target": 235,
+      "type": "发展趋势",
+      "description": "这些框架正在向更高层次的抽象发展。",
+      "weight": 1.0
+    },
+    {
+      "source": 234,
+      "target": 237,
+      "type": "降低门槛",
+      "description": "让领域专家无需深入了解量子力学细节即可开发量子应用。",
+      "weight": 1.0
+    },
+    {
+      "source": 234,
+      "target": 236,
+      "type": "支持开发",
+      "description": "这些框架支持量子应用的开发。",
+      "weight": 1.0
+    },
+    {
+      "source": 239,
+      "target": 283,
+      "type": "构建",
+      "description": "研究人员可以像搭建经典神经网络一样构建量子-经典混合模型。",
+      "weight": 1.0
+    },
+    {
+      "source": 239,
+      "target": 242,
+      "type": "构建方式类似",
+      "description": "量子-经典混合模型的构建方式类似于经典神经网络。",
+      "weight": 1.0
+    },
+    {
+      "source": 240,
+      "target": 246,
+      "type": "自动处理",
+      "description": "该项目能够自动处理量子梯度计算。",
+      "weight": 1.0
+    },
+    {
+      "source": 241,
+      "target": 246,
+      "type": "自动处理",
+      "description": "该项目能够自动处理优化过程。",
+      "weight": 1.0
+    },
+    {
+      "source": 241,
+      "target": 301,
+      "type": "包括",
+      "description": "核心任务之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 243,
+      "target": 244,
+      "type": "需要伴随成熟",
+      "description": "硬件的进步必须伴随着软件工具的成熟。",
+      "weight": 1.0
+    },
+    {
+      "source": 244,
+      "target": 282,
+      "type": "就业集中",
+      "description": "直接就业岗位主要集中在硬件领域。",
+      "weight": 1.0
+    },
+    {
+      "source": 246,
+      "target": 247,
+      "type": "被采纳为",
+      "description": "该项目成为量子机器学习社区的标准工具。",
+      "weight": 1.0
+    },
+    {
+      "source": 248,
+      "target": 249,
+      "type": "属于",
+      "description": "“密码学安全威胁”小节属于“伦理与社会影响”章节。",
+      "weight": 1.0
+    },
+    {
+      "source": 248,
+      "target": 250,
+      "type": "属于",
+      "description": "“计算资源不平等”小节属于“伦理与社会影响”章节。",
+      "weight": 1.0
+    },
+    {
+      "source": 253,
+      "target": 254,
+      "type": "启动",
+      "description": "NIST已经启动后量子密码学标准化进程。",
+      "weight": 1.0
+    },
+    {
+      "source": 253,
+      "target": 257,
+      "type": "隶属于",
+      "description": "该评审工作由NIST组织。",
+      "weight": 1.0
+    },
+    {
+      "source": 254,
+      "target": 255,
+      "type": "预计公布最终标准时间",
+      "description": "预计在2024年公布最终标准。",
+      "weight": 1.0
+    },
+    {
+      "source": 256,
+      "target": 257,
+      "type": "参与",
+      "description": "王晓明研究员参与了NIST的评审工作。",
+      "weight": 1.0
+    },
+    {
+      "source": 256,
+      "target": 259,
+      "type": "指出",
+      "description": "他指出向后量子密码的迁移将是一个漫长的过程。",
+      "weight": 1.0
+    },
+    {
+      "source": 259,
+      "target": 260,
+      "type": "预计耗时",
+      "description": "迁移可能需要10-15年。",
+      "weight": 1.0
+    },
+    {
+      "source": 259,
+      "target": 261,
+      "type": "影响",
+      "description": "迁移将涉及并要求关键基础设施尽早升级。",
+      "weight": 1.0
+    },
+    {
+      "source": 261,
+      "target": 262,
+      "type": "属于",
+      "description": "银行系统是关键基础设施之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 261,
+      "target": 263,
+      "type": "属于",
+      "description": "政府通信网络是关键基础设施之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 262,
+      "target": 264,
+      "type": "威胁",
+      "description": "该威胁模式促使银行系统尽早升级。",
+      "weight": 1.0
+    },
+    {
+      "source": 263,
+      "target": 264,
+      "type": "威胁",
+      "description": "该威胁模式促使政府通信网络尽早升级。",
+      "weight": 1.0
+    },
+    {
+      "source": 264,
+      "target": 265,
+      "type": "影响",
+      "description": "该威胁促使通信网络需要尽早升级以应对。",
+      "weight": 1.0
+    },
+    {
+      "source": 266,
+      "target": 268,
+      "type": "关联",
+      "description": "数字鸿沟涉及技术发达国家与发展中国家之间的差距。",
+      "weight": 1.0
+    },
+    {
+      "source": 267,
+      "target": 268,
+      "type": "关联",
+      "description": "数字鸿沟涉及技术发达国家与发展中国家之间的差距。",
+      "weight": 1.0
+    },
+    {
+      "source": 269,
+      "target": 270,
+      "type": "发布",
+      "description": "联合国教科文组织发布了相关报告。",
+      "weight": 1.0
+    },
+    {
+      "source": 270,
+      "target": 271,
+      "type": "建议建立",
+      "description": "报告建议建立国际量子计算资源共享机制。",
+      "weight": 1.0
+    },
+    {
+      "source": 271,
+      "target": 275,
+      "type": "共享",
+      "description": "该机制旨在实现量子计算资源的国际共享。",
+      "weight": 1.0
+    },
+    {
+      "source": 272,
+      "target": 273,
+      "type": "启动",
+      "description": "欧盟已经启动量子旗舰计划。",
+      "weight": 1.0
+    },
+    {
+      "source": 272,
+      "target": 274,
+      "type": "包含",
+      "description": "欧盟由各成员国组成。",
+      "weight": 1.0
+    },
+    {
+      "source": 273,
+      "target": 275,
+      "type": "确保使用",
+      "description": "计划目标之一是确保成员国研究人员能使用量子计算资源。",
+      "weight": 1.0
+    },
+    {
+      "source": 273,
+      "target": 274,
+      "type": "服务对象",
+      "description": "计划服务于所有欧盟成员国的研究人员。",
+      "weight": 1.0
+    },
+    {
+      "source": 276,
+      "target": 277,
+      "type": "创造",
+      "description": "量子技术的发展将创造新的就业机会。",
+      "weight": 1.0
+    },
+    {
+      "source": 276,
+      "target": 278,
+      "type": "淘汰",
+      "description": "量子技术的发展也会淘汰某些传统岗位。",
+      "weight": 1.0
+    },
+    {
+      "source": 279,
+      "target": 280,
+      "type": "进行",
+      "description": "麦肯锡开展并发布了该研究。",
+      "weight": 1.0
+    },
+    {
+      "source": 279,
+      "target": 282,
+      "type": "预测",
+      "description": "麦肯锡研究预测量子计算行业的发展与就业影响。",
+      "weight": 1.0
+    },
+    {
+      "source": 280,
+      "target": 281,
+      "type": "时间范围",
+      "description": "研究预测到2030年。",
+      "weight": 1.0
+    },
+    {
+      "source": 280,
+      "target": 282,
+      "type": "预测",
+      "description": "预测量子计算行业到2030年将创造约20万个直接就业岗位。",
+      "weight": 1.0
+    },
+    {
+      "source": 281,
+      "target": 284,
+      "type": "时间",
+      "description": "到2030年预计达到上述岗位规模。",
+      "weight": 1.0
+    },
+    {
+      "source": 282,
+      "target": 284,
+      "type": "创造",
+      "description": "预计将创造约20万个直接就业岗位。",
+      "weight": 1.0
+    },
+    {
+      "source": 284,
+      "target": 285,
+      "type": "集中在",
+      "description": "新增岗位主要集中在硬件工程领域。",
+      "weight": 1.0
+    },
+    {
+      "source": 284,
+      "target": 286,
+      "type": "集中在",
+      "description": "新增岗位主要集中在算法开发领域。",
+      "weight": 1.0
+    },
+    {
+      "source": 284,
+      "target": 287,
+      "type": "集中在",
+      "description": "新增岗位主要集中在应用咨询领域。",
+      "weight": 1.0
+    },
+    {
+      "source": 288,
+      "target": 289,
+      "type": "取代",
+      "description": "可能会取代一部分运筹学专家的工作。",
+      "weight": 1.0
+    },
+    {
+      "source": 288,
+      "target": 290,
+      "type": "取代",
+      "description": "可能会取代一部分供应链分析师的工作。",
+      "weight": 1.0
+    },
+    {
+      "source": 291,
+      "target": 292,
+      "type": "建议",
+      "description": "建议教育机构尽早调整课程体系。",
+      "weight": 1.0
+    },
+    {
+      "source": 292,
+      "target": 293,
+      "type": "纳入",
+      "description": "将量子信息科学尽早纳入课程体系。",
+      "weight": 1.0
+    },
+    {
+      "source": 292,
+      "target": 295,
+      "type": "培养",
+      "description": "培养跨学科人才以应对劳动力市场变化。",
+      "weight": 1.0
+    },
+    {
+      "source": 293,
+      "target": 294,
+      "type": "包含",
+      "description": "课程体系应包含量子信息科学。",
+      "weight": 1.0
+    },
+    {
+      "source": 295,
+      "target": 296,
+      "type": "应对",
+      "description": "用于应对劳动力市场的变革。",
+      "weight": 1.0
+    },
+    {
+      "source": 296,
+      "target": 297,
+      "type": "经历",
+      "description": "劳动力市场正在或将经历变革。",
+      "weight": 1.0
+    },
+    {
+      "source": 298,
+      "target": 299,
+      "type": "特征",
+      "description": "量子计算与人工智能的融合体现为协同演进。",
+      "weight": 1.0
+    },
+    {
+      "source": 300,
+      "target": 301,
+      "type": "包含",
+      "description": "机器学习包含优化、采样和矩阵运算等核心任务。",
+      "weight": 1.0
+    },
+    {
+      "source": 301,
+      "target": 302,
+      "type": "包括",
+      "description": "核心任务之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 301,
+      "target": 303,
+      "type": "包括",
+      "description": "核心任务之一。",
+      "weight": 1.0
+    },
+    {
+      "source": 304,
+      "target": 305,
+      "type": "帮助",
+      "description": "用于量子系统参数的校准。",
+      "weight": 1.0
+    },
+    {
+      "source": 304,
+      "target": 306,
+      "type": "帮助",
+      "description": "用于量子系统的错误检测与更正。",
+      "weight": 1.0
+    },
+    {
+      "source": 304,
+      "target": 307,
+      "type": "帮助",
+      "description": "用于改进量子系统相关算法的设计。",
+      "weight": 1.0
+    },
+    {
+      "source": 308,
+      "target": 309,
+      "type": "落地于",
+      "description": "预计在未来十年内落地。",
+      "weight": 1.0
+    },
+    {
+      "source": 308,
+      "target": 328,
+      "type": "发生于",
+      "description": "预计在未来十年出现。",
+      "weight": 1.0
+    },
+    {
+      "source": 311,
+      "target": 326,
+      "type": "阻碍",
+      "description": "是实现量子计算全部潜力需要克服的障碍。",
+      "weight": 1.0
+    },
+    {
+      "source": 316,
+      "target": 317,
+      "type": "提出于",
+      "description": "在1982年提出关于模拟自然需量子的预言。",
+      "weight": 1.0
+    },
+    {
+      "source": 316,
+      "target": 318,
+      "type": "观点",
+      "description": "认为自然不是经典的，模拟自然应采用量子系统。",
+      "weight": 1.0
+    },
+    {
+      "source": 319,
+      "target": 320,
+      "type": "创立于",
+      "description": "该贡献的时间标注为2019年。",
+      "weight": 1.0
+    },
+    {
+      "source": 321,
+      "target": 323,
+      "type": "优化",
+      "description": "开展了超导量子比特保真度的优化工作。",
+      "weight": 2.0
+    },
+    {
+      "source": 321,
+      "target": 322,
+      "type": "时间",
+      "description": "相关研究的时间为2021年。",
+      "weight": 1.0
+    },
+    {
+      "source": 322,
+      "target": 323,
+      "type": "进行于",
+      "description": "该优化工作的时间为2021年。",
+      "weight": 1.0
+    },
+    {
+      "source": 324,
+      "target": 325,
+      "type": "提出",
+      "description": "提出了基于色码的量子纠错方案。",
+      "weight": 1.0
+    }
+  ],
+  "stats": {
+    "num_nodes": 342,
+    "num_edges": 347,
+    "density": 0.005950849753905781,
+    "entity_types": {
+      "TECHNOLOGY": 71,
+      "PRODUCT": 13,
+      "CONCEPT": 153,
+      "PERSON": 25,
+      "DATE": 18,
+      "ORGANIZATION": 24,
+      "EVENT": 12,
+      "OTHER": 22,
+      "LOCATION": 4
+    },
+    "relationship_types": {
+      "融合": 1,
+      "需要": 9,
+      "属于": 27,
+      "取得进展于": 2,
+      "使用": 12,
+      "基于": 1,
+      "包含": 11,
+      "制备": 1,
+      "测量": 1,
+      "模拟": 1,
+      "避免": 1,
+      "能够运行": 1,
+      "影响": 10,
+      "降低理解需求": 1,
+      "优化": 3,
+      "处理": 3,
+      "面临": 3,
+      "发表": 1,
+      "创建": 2,
+      "发生于": 6,
+      "研究": 1,
+      "发表于": 1,
+      "提出": 8,
+      "用作": 1,
+      "导致": 1,
+      "效率优于": 1,
+      "用于": 6,
+      "限制": 1,
+      "数量": 1,
+      "由…构成": 1,
+      "指出缺陷": 1,
+      "存在问题": 1,
+      "具有": 3,
+      "验证": 1,
+      "由…进行": 1,
+      "开发": 7,
+      "日期": 1,
+      "实现": 1,
+      "降低": 4,
+      "实现时间": 1,
+      "需要至少": 1,
+      "相对于": 1,
+      "由…提出": 1,
+      "提出于": 3,
+      "在…中被认为实用": 1,
+      "采用": 1,
+      "应用": 7,
+      "随…增加": 1,
+      "领导": 2,
+      "时间": 4,
+      "从事": 1,
+      "进行": 2,
+      "研究对象": 1,
+      "计算属性": 1,
+      "误差": 1,
+      "足以预测": 1,
+      "促进": 1,
+      "适用性": 1,
+      "需求": 2,
+      "描述": 1,
+      "在": 1,
+      "表现": 1,
+      "发现": 1,
+      "性质": 2,
+      "评估于": 1,
+      "优于": 2,
+      "在场景中有价值": 1,
+      "质疑": 2,
+      "证明": 1,
+      "提醒": 1,
+      "存在于": 1,
+      "未展现": 1,
+      "围绕": 1,
+      "具备": 1,
+      "可被模拟": 1,
+      "不具备": 1,
+      "扩展自": 2,
+      "扩展到": 1,
+      "应用于": 4,
+      "生成": 2,
+      "区分": 3,
+      "捕捉": 1,
+      "隶属于": 2,
+      "难以捕捉": 1,
+      "与真实数据偏差": 2,
+      "用于衡量": 1,
+      "核心挑战": 1,
+      "负责": 2,
+      "合作": 3,
+      "执行": 1,
+      "受影响": 1,
+      "帮助": 4,
+      "靶向": 1,
+      "筛选对象": 1,
+      "关键突破": 1,
+      "筛选至": 1,
+      "计算": 2,
+      "涉及目标": 1,
+      "预测": 3,
+      "涉及": 3,
+      "识别出": 1,
+      "来源于": 1,
+      "进入": 1,
+      "输入规模": 1,
+      "粗筛后规模": 1,
+      "完成同任务耗时": 1,
+      "耗时": 3,
+      "利用": 1,
+      "分析": 2,
+      "表示": 3,
+      "撰写": 1,
+      "优势条件": 1,
+      "数量超过": 1,
+      "加速": 4,
+      "更高效于": 1,
+      "线性增长": 1,
+      "参与": 3,
+      "提供": 1,
+      "位于": 1,
+      "分配": 1,
+      "目标": 2,
+      "响应": 1,
+      "响应时间": 1,
+      "实施": 1,
+      "求解时间": 2,
+      "比较性能": 1,
+      "批评": 1,
+      "性能比较": 1,
+      "变量数量": 1,
+      "测试于": 1,
+      "拥有": 1,
+      "作用于": 1,
+      "数值": 2,
+      "延长": 1,
+      "破解": 2,
+      "领导者": 1,
+      "增加": 1,
+      "研发": 1,
+      "估算": 2,
+      "领导开发": 1,
+      "是": 1,
+      "集成": 2,
+      "支持构建": 1,
+      "自动处理": 4,
+      "获得星标于": 1,
+      "托管于": 1,
+      "发展趋势": 1,
+      "降低门槛": 1,
+      "支持开发": 1,
+      "构建": 1,
+      "构建方式类似": 1,
+      "包括": 3,
+      "需要伴随成熟": 1,
+      "就业集中": 1,
+      "被采纳为": 1,
+      "启动": 2,
+      "预计公布最终标准时间": 1,
+      "指出": 1,
+      "预计耗时": 1,
+      "威胁": 2,
+      "关联": 2,
+      "发布": 1,
+      "建议建立": 1,
+      "共享": 1,
+      "确保使用": 1,
+      "服务对象": 1,
+      "创造": 2,
+      "淘汰": 1,
+      "时间范围": 1,
+      "集中在": 3,
+      "取代": 2,
+      "建议": 1,
+      "纳入": 1,
+      "培养": 1,
+      "应对": 1,
+      "经历": 1,
+      "特征": 1,
+      "落地于": 1,
+      "阻碍": 1,
+      "观点": 1,
+      "创立于": 1,
+      "进行于": 1
+    },
+    "num_connected_components": 32
+  }
+}

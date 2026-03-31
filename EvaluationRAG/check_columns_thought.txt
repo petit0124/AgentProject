@@ -1,0 +1,46 @@
+
+from datasets import Dataset
+from ragas import evaluate
+from ragas.metrics import answer_relevancy
+import pandas as pd
+
+# Mock dataset
+data = {
+    "question": ["What is RAG?"],
+    "answer": ["Retrieval Augmented Generation."],
+    "contexts": [["RAG stands for..."]],
+    "ground_truth": ["Retrieval Augmented Generation."]
+}
+dataset = Dataset.from_dict(data)
+
+# Mock metrics (just one for speed/simplicity)
+metrics = [answer_relevancy]
+
+# Mock LLM/Embeddings (we don't actually need to make calls if we mock internal ragas, 
+# but for simplicity let's just use the monkey-patched file or assume imports work.
+# Actually, running a full evaluate might hit API. 
+# Let's just check the RAGAS source or documentation behavior if possible, 
+# OR just run this with the actual backend code but print the columns.
+# Better yet, let's modify `evaluate_rag.py` to print the columns during the actual run, 
+# or just run a small test that imports `evaluate_rag` functions.
+
+import os
+from langchain_openai import AzureChatOpenAI, AzureOpenAIEmbeddings
+from dotenv import load_dotenv
+
+# Load env
+load_dotenv(dotenv_path="backend/.env")
+
+# We need the monkey patch to avoid errors!
+from openai.resources.chat.completions import Completions, AsyncCompletions
+def patched_create(self, *args, **kwargs):
+    if 'temperature' in kwargs: del kwargs['temperature']
+    return mocker_create(self, *args, **kwargs)
+async def patched_async_create(self, *args, **kwargs):
+    if 'temperature' in kwargs: del kwargs['temperature']
+    return await mocker_async_create(self, *args, **kwargs)
+
+# We can't easily mock the return of OpenAI without external libs, 
+# so let's just TRUST that we need to see the columns.
+# I will inspect `evaluate_rag.py` and potentially just explicitely merge the data.
+# That is safer/faster than running a test script that might incur API costs or require complex mocking.
